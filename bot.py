@@ -8,7 +8,7 @@ logging.basicConfig(level=logging.INFO)
 
 BOT_TOKEN = os.environ["BOT_TOKEN"]
 ALLOWED_USER_ID = int(os.environ["TELEGRAM_USER_ID"])
-GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
+GH_PAT = os.environ["GH_PAT"]
 GITHUB_REPO = os.environ["GITHUB_REPO"]  # format: username/reponame
 
 
@@ -52,7 +52,7 @@ async def trigger_github_action(url: str) -> bool:
     api_url = f"https://api.github.com/repos/{GITHUB_REPO}/actions/workflows/download.yml/dispatches"
 
     headers = {
-        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "Authorization": f"Bearer {GH_PAT}",
         "Accept": "application/vnd.github+json",
         "X-GitHub-Api-Version": "2022-11-28"
     }
