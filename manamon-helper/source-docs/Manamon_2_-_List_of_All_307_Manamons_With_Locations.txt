@@ -1,0 +1,2219 @@
+Notes
+1. If a manamon has multi-typing, they have been placed in their respective section. I.E., If a manamon like Garganchan is a fighting fire type, it has been placed under fire, and fighting types.
+2. Some evolution levels are intentionally modified, I do not want to give exact levels when the manamons evolve. Though I have adjusted 3 or 4 levels behind, or forward for some of the manamons. This will be updated if there is a Manamon3 in the coming future.
+3. If you find any error, pleae send me a PM, I am a human and am prone to make mistakes sometimes.
+4. Tip: If you want to find a Manamon quicker, use find by doing copy paste in any of the text editor.
+Fire Types
+Flammia, ID 1
+Evolves @level 17 in
+Flamric, ID 2
+Evolves @level 38 in
+Tylavile, ID 3
+Larvi, ID 48
+Evolves at level 27 in
+Lavalan, ID 49.
+Evolves by using Smoke Element at any level in
+Magmizire, ID 50
+Teddiburn, ID 77
+Evolves at level 30 in
+Merembear, ID 78
+Sluggugg, ID 79
+Evolves after walking 20000 steps at any levels before level 100 in
+Eskargma, ID 300
+A tip: We can know when 20000 steps are completed. We have to use 25 encounter-downs, after that, level up.
+Feefeye, ID 106
+Evolves at level 37, (aprox) in
+Foefumb, ID 107
+Evolves by using Smoke Element at any level in
+Garganchan, ID 108
+Embird, ID 118
+Evolves by using smoke element at any level in
+Vultair, ID 119
+Drabao, ID 120
+Evolves at level 35 in
+Dragetull, ID 121
+Evolves at level 55 in
+Dragomier, ID 122
+Kinidul (legend), ID 153
+Lavrog, ID 159
+Evolves at level 17 in
+Ribignis, ID 160
+Evolves at level 34 in
+Golavath, ID 161
+Flarebra, ID 185
+Zebbabern, ID 186
+Torchin, ID 216
+Evolves between level 28-30 in
+Lantlare, ID 217
+Coaleer, ID 230
+Evolves at level 28 in
+Bearnace, ID 231
+Evolves at level 37 in
+Ursinearator, ID 232
+Scorchion, ID 252
+Araknite, ID 253
+Water Types
+Aquaf, ID 4
+Evolves @level 14 into
+Germerine, ID 5
+Evolves in the range of level 34 38 into
+Fauntozaur, ID 6
+Hydrake, ID 38 (A Water, Grass and Sound type)
+Tadder, ID 40
+Evolves at level 16 in
+Friggle, ID 41 (Becomes Water and Electric type)
+Evolves by using Lightning Element at any level in
+Frorgeril, ID 42
+Hydrobird, ID 73
+Evolves at level 32 in
+Dramegon, ID 74 (Changes its Air typing with Dragon)
+Berggin, ID 83
+Evolves at level 35 in
+Arctana, ID 84
+Reef, ID 86
+Evolves at level 35 into
+Submenno, ID 87
+Finaut, ID 93
+Evolves at level 30 in
+Fyngon, ID 94
+Torto, ID 129
+Evolves at level 27 into
+Turoison, ID 130
+Squarpha, ID 136
+Tarba, ID 148
+Evolves at level 45 in
+Tarboo, ID 149
+Eksponge, ID 151
+Evolves at level 50 in
+Sponginate, ID 261
+Kiduddle, ID 162
+Evolves at level 14 in
+Gowater, ID 163
+Evolves at level 33 in
+Kaboerain, ID 164
+Hipplish, ID 204
+Evolves at level 26 in
+Wavotamus, ID 205
+Luscish, ID 206
+Evolves by using Holy Artifact at any level in
+Angillish, ID 207
+Sirennet, ID 250
+Evolves at level 40 in
+Sirenea, ID 251
+Flounger, ID 274
+Evolves at level 40 in
+Angorge, ID 275
+Grass Types
+Leafox, ID 7
+Evolves @level 19 into
+Bulpine, ID 8
+Evolves @level 33 into
+Banyardan, ID 9
+Hydrake, ID 38
+Sapple, ID 43
+Evolves at level 25 in
+Sproosal, ID 44
+Evolves at level 42 in
+Junanchel, ID 45
+Guerrerrol, ID 99
+Roazah, ID 127
+Evolves at level 34 in
+Thornita, ID 128
+Grekko, ID 165
+Evolves at level 17 in
+Greniverb, ID 166
+Evolves at level 35 in
+Bamboustica, ID 167
+Rucroom, ID 171
+Evolves at level 24 in
+Limtoroom, ID 172
+Thornub, ID 213
+Evolves at level 24 in
+Furivia, ID 214
+Evolves by using Chlorophyl Element at any level in.
+Treezon, ID 215
+Leafowl, ID 224
+Evolves at level 30 in
+Plumirage, ID 225
+Evolves at level 45 in
+Fowlusion, ID 226
+Slothing, ID 247
+Evolves at level 28 in
+folimoss, ID 248
+Slothegor, ID 249
+Calculade, ID 272
+Evolves at level 37 in
+Blade Dodderator, or Brain Dodderator, ID 273
+Shrubbreek, ID 281
+Evolves at level 28 in
+Paranite, ID 282
+Evolves at level 49 in
+Ureinaman, ID 283
+Holy Types
+Squirmonc, ID 10
+Evolves @level 25 into
+Miterosier, ID 11
+Chingle, ID 34
+Evolves @level30 in
+Bellaard, ID 35
+Lunece, ID 75
+Evolves at level 34 in
+Sacroloon, ID 76
+Palador, ID 88
+Evolves at level 30 in
+Paladine, ID 89
+Evolves at level 47 in
+Tenshaino, ID 90
+Myaneko, ID 91
+Zeognioss, ID 155
+Gowater, ID 163
+Kaboerain, ID 164
+Yakshine, ID 181
+Evolves at level 19 in
+Kubineral, ID 182
+Evolves at level 35 in
+Vishthaugh, ID 183
+Daggeetle, ID 184
+Boveel, ID 192
+Evolves at level 20 in
+Cowmoono, ID 193
+Evolves by using a Holy Artifact in.
+Kamadeir, ID 194
+Angillish, ID 207
+Unicloud, ID 266
+Evolves at level 30 in
+Thundercolt, ID 267
+Evolves at level 40 in
+Pegastorm, ID 268
+Cloritus, ID 284
+Evolves by holding Honted Hat after level 30 in
+Sanctosole, ID 285
+Shadow Types
+Flamric, ID 2
+Evolves @level 38 in
+Tylavile, ID 3
+Merkit, ID 11
+Evolves @level 25 into
+Ivilion, ID 13
+Evolves @level 35 into
+Tigrath, ID 14
+Manja, ID 51
+Evolves at level 27 in
+Niomanja, ID 52
+Evolves at level 45 in
+Ninjarkin, ID 53
+Spirost, ID 103
+Aperishian, ID 104
+Mortrex, ID 105
+Mutmo, ID 123
+Evolves after using a Solless Hartstone at any level in
+Duskond, ID 126
+Zapistan, ID 137
+Evolves by using a Star Elelent at any level in
+Dussoket, ID 138
+Irroadium, ID 156
+Picsor, ID 168
+Evolves at level 18 in
+Wolfsyre, ID 169
+Evolves by using a Star Element at any level in
+Werewolfsyre, ID 170
+Fennebel, ID 179
+Evolves at level 24 in
+Shadyena, ID 180
+Kewin, ID 239
+Evolves at level 37 in
+Schemu, ID 240
+Sirennet, ID 250
+Sirenea, ID 251
+Air Types
+Egala, ID 15
+Evolves @level 19 into
+Egok, ID 16
+Evolves @level 39 into
+Martiagle, ID 17
+Wormer, ID 18
+Evolves @level 11 into
+Globular, ID 19
+Evolves @level 15 into
+Skirial, ID 20
+Zinbat, ID 25
+Evolves @level 24 into
+Zintrabat, ID 26
+Evolves by using the Star Element @any level into
+Orystar, ID 27
+Owla, ID 31
+Evolves @level 23 into
+Owlex, ID 32
+Evolves @level42 in
+Fowliture, ID 33
+Hydrobird, ID 73
+Dramagon, ID 74 (No longer an Air type)
+Lunece, ID 75
+Sacroloon, ID 76
+Chiroperta, ID 112
+Evolves at level 32 in
+Ghoperto, ID 113
+Viralite, ID 116
+Embird, ID 118
+Vultair, ID 119
+Drabao, ID 120
+Dragetull, ID 121
+Dragomier, ID 122
+Peggisen, ID 158
+Doving, ID 173
+Evolves at level 22 in
+Colovaird, ID 174
+Leafowl, ID 224
+Plumirage, ID 225
+Fowlusion, ID 226
+Swinguin, ID 288
+Evolves at level 35 in
+Penguilum, ID 289
+Brezgard, ID 304
+Hathorilian, ID 307
+Fighting Types
+Fyst, ID 21
+Evolves at level 25 in
+Fyrate, ID 22
+Manja, ID 51
+Niomanja, ID 52
+Ninjarkin, ID 53
+Palador, ID 88
+Paladine, ID 89
+Tenshaino, ID 90
+Guerrerrol, ID 99
+Feefeye, ID 106
+Foefumb, ID 107
+Garganchan, ID 108
+Electrist, ID 109
+Evolves at level 27 in
+Donnammer, ID 110
+Evolves after walking 20000 steps and after 1 level up in
+Javoltrik, ID 191
+Redonkeus, ID 142
+Remullion, ID 143
+Rootle, ID 227
+Kangard, ID 228
+Kangachan, ID 229
+Impanzee, ID 255
+Normammal, ID 256
+Giganatan, ID 257
+Waspunch, ID 262
+Evolves at level 40 in
+Rumblebee, ID 263
+Karugard, ID 305
+Electric Types
+Montore, ID 23
+Evolves by using Update Instaler at any level in
+Mondevol, ID 24
+Jiminar
+Evolves @level24 into
+Jiminite
+Evolves after using the Lightning Element @any level into
+Jimitron, ID 30
+Tadder, ID 40
+Friggle, ID 41
+Frorgeril, ID 42
+Autoson, ID 60
+Evolves at level 36 in
+Titomaton, ID 61
+Erroir, ID 69
+Electrist, ID 109
+Donnammer, ID 110
+Javoltric, ID 191
+Zapistan, ID 137
+Dussoket, ID 138
+Galvana, ID 152
+Peggisen, ID 158
+Vipesla, ID 189
+Evolves at level 34 in
+Vyprolt, ID 190
+Ampanda, ID 264
+Evolves by holding a Yellow Star after level 30 in
+Bamboom, ID 265
+Unicloud, ID 266
+Thundercolt, ID 267
+Pegastorm, ID 268
+Floreptile, ID 269
+Evolves at level 34 in
+Ohmeleon, ID 270
+Evolves at level 53 in
+Glimerodo, ID 271
+Magic Types
+Montore, ID 23
+Mondevol, ID 24
+Zinbat, ID 25
+Zintrabat, ID 26
+Orystar, ID 27
+Jacanaip, ID 65
+Evolves at level 27 in
+Enchandithol, ID 66
+Wizz, ID 67
+Evolves at level 37 in
+Wizzell, ID 68
+Gronk, ID 80
+Evolves at level 20 in
+Groler, ID 81
+Evolves at level 40 in
+Grandlan, ID 82
+Myaneko, ID 91
+Sullorb, ID 117
+Mutmo, ID 123
+Evolves by using Star Element in
+Elvond, ID 125
+Squarpha, ID 136
+Tabalus, ID 157
+Mirron, ID 208
+Evolves at level 26 in
+Refloron, ID 209
+Cofena, ID 237
+Evolves at level 30 in
+Cofatena, ID 238
+Griphone, ID 241
+Evolves at level 35 in
+humbabang, ID 242
+Evolves at level 45 in
+Chimerus, ID 243
+Calculade, ID 272
+Blade Dodderator, ID 273
+Insect types
+Wormer, ID 18
+Globular, ID 19
+Skirial, ID 20
+Trumer, ID 92
+Cacone, ID 95
+Evolves at level 20 in
+Bombusect, ID 96
+Centi, ID 177
+Evolves at level 20 in
+Centiplex, ID 178
+Metalarve, ID 200
+Evolves at level 19 in
+Castwire, ID 201
+Evolves at level 30 in
+Mantasteel, ID 202
+Glarie, ID 218
+Evolves at level 27 in
+Pyrefly, ID 219
+Evolves at level 40 in
+Sylphantom, ID 220
+Gossolo, ID 221
+Evolves at level 24 in
+Quartantula, ID 222
+Evolves by playing the Rhythm games in the Music Hall, in the north section of a city at any level in
+Symphonid, ID 223 (note: a score above 60% is needed in order to do the transformation)
+Poison Types
+Globular, ID 19
+Skirial, ID 20
+Vibrajon, ID 36
+Evolves at level 23 in
+Recobrah, ID 37
+Ratsal, ID 46
+Evolves at level 33 in
+Ratiera, ID 47
+Trumer, ID 92
+Pythor, ID 97
+Evolves at level 36 in
+Thundron, ID 98
+Sansuran, ID 114
+Evolves at level 36 in
+Sansurgian, ID 115
+Roazah, ID 127
+Thornita, ID 128
+Torto, ID 129
+Turoison, ID 130
+Viscow, ID 195
+Evolves at level 20 in
+Oxenik, ID 196
+Evolves by using a Gunk Element at any level in
+Gubbulline, ID 197
+Thornub, ID 213
+Furivia, ID 214
+Treezon, ID 215
+Coaleer, ID 230
+Bearnace, ID 231
+Ursinearator, ID 232
+Miasmouse, ID 244
+Evolves at level 19 in
+Grimident, ID 245
+Evolves by trading at level in
+Cerberat, ID 246 (I think, this one needs to hold the Vennumus Lance while trading, or it is the next poison type, any one of these has to)
+Salicious, ID 258
+Venomander, ID 259
+Evolves by trading at any level in
+Delazzard, ID 260
+Dragon Types
+Dramagon, ID 74
+Drabao, ID 120
+Dragetull, ID 121
+Dragomier, ID 122
+Zeognioss, ID 155
+Irroadium, ID 156
+Tabalus, ID 157
+Glimerodo, ID 271
+Limewurm, ID 290
+Evolves at level 30 in
+Amthysto, ID 291
+Evolves at level 55 in
+Volanteral, ID 292
+Draakgard, ID 306
+Stone Types
+Grainade, ID 57
+Evolves at level 27 in
+Promolder, ID 58
+Evolves at level 42 in
+Craggallem, ID 59
+Sullorb, ID 117
+Effigem, ID 131
+Evolves at level 30 in
+Sculpton, ID 132
+Evolves at level 45 in
+Simulon, ID 133
+Turrubble, ID 187
+Gargarram, ID 188
+Limewurm, ID 290
+Amthysto, ID 291
+Volanteral, ID 292
+Pebbledash, ID 298
+Evolves at level 28 in
+Bulderdash, ID 299
+Brezgard, ID 304
+Karugard, ID 305
+Draakgard, ID 306
+Ground Types
+Leafox, ID 7
+Bulpine, ID 8
+Banyardan, ID 9
+Lionra, ID 54
+Evolves at level 20 in
+Lonar, ID 55
+Evolves at level 33 in
+Leonatar, ID 56
+Terruffalo, ID 100
+Sheepit, ID 134
+Evolves by trading at any level in
+Lamgurk, ID 135
+Hilimer, ID 198
+Evolves at level 27 in
+Molandon, ID 199
+Buppig, ID 233
+Evolves at level 25 in
+Dirroink, ID 234
+Evolves by using a Gunk Element at any level in
+Alluppig, ID 235
+Scorchion, ID 252
+Evolves into
+Araknite, ID 253
+Minitaur, ID 278
+Evolves at level 34 in
+Clubbull, ID 279
+Evolves at level 53 in
+Mightauras, ID 280
+Ice Types
+Houndorf, ID 139
+Evolves at level 37 in
+Frenrir, ID 140
+Snowmonno, ID 141
+Polosses, ID 154
+Peggisen, ID 158
+Elephrost, ID 286
+Evolves at level 36 in
+Maustodon, ID 287
+Swinguin, ID 288
+Penguilum, ID 289
+Helpup, ID 295
+Evolves at level 25 in
+salvahound, ID 296
+Evolves after walking 20000 steps and one level up in
+Rescumo, ID 297
+Mutmo, ID 123
+Evolves by walking 20000 steps and level up in
+Frostond, ID 302
+Ghost Types
+Spirost, ID 103
+Evolves at level 26 in
+Aperishian, ID 104
+Evolves by trade in
+Mortrex, ID 105
+Chiroperta, ID 112
+Ghoperto, ID 113
+Gargarram, ID 188
+Marlaunt, ID 203
+Torchin, ID 216
+Lantlare, ID 217
+Glarie, ID 218
+Pyrefly, ID 219
+Sylphantom, ID 220
+Echoplasm, ID 276
+Evolves at level 34 in
+Banshreek, ID 277
+Shrubbreek, ID 281
+Paranite, ID 282
+Ureinaman, ID 283
+Sanctosole, ID 285
+Normal Types
+Lionra, ID 54
+Lonar, ID 55
+Leonatar, ID 56
+Domestress, ID 62
+Boibol, ID 63
+Evolves at level 23-24 in
+Bayowoof, ID 64
+Erroir, ID 69
+Mutmo, ID 123
+Placebot, ID 144
+Ampheakub, ID 145
+Evolves at level 30 in
+Bearran, ID 146
+Evolves by trade in
+Grizzlord, ID 147
+Picsor, ID 168
+Wolfsyre, ID 169
+Werewolfsyre, ID 170
+Frolop, ID 175
+Evolves at level 26 in.
+Chillardent, ID 176
+Artisoul, ID 254
+Impanzee, ID 255
+Normammal, ID 256
+Giganatan, ID 257
+Undead Types
+Goulad, ID 70
+Evolves at level 24-26 in
+Morgul, ID 71
+Evolves by using a Solless Hartstone in
+Fiendour, ID 72
+Cacone, ID 95
+Bombusect, ID 96
+Dormanoid, ID 111
+Skelitten, ID 210
+Evolves at level 21 in
+Corpscat, ID 211
+Evolves between level 37-40 in
+Jagzeom, ID 212
+Elephrost, ID 286
+Maustodon, ID 287
+Zombone, ID 293
+Evolves at level 30 in
+Skeletone, ID 294
+Steal Types
+Autoson, ID 60
+Evolves at level 36 in
+Titomaton, ID 61
+Feruddae, ID 101
+Evolves at level 32 in
+Steellion, ID 102
+Remullion, ID 143
+Placebot, ID 144
+Vipesla, ID 189
+Vyprolt, ID 190
+Metalarve, ID 200
+Castwire, ID 201
+Mantasteel, ID 202
+Mutmo, ID 123
+Evolution triggered by holding a Magnet Jacket and level up after 30
+Evolves into
+Irond, ID 301
+Sound Types
+Owla, ID 31
+Evolves @level 23 into
+Owlex, ID 32
+Evolves @level42 in
+Fowliture, ID 33
+Chingle, ID 34
+Evolves @level30 in
+Bellaard, ID 35
+Vibrajon, ID 36
+Evolves at level 23 in
+Recobrah, ID 37
+Hydrake, ID 38
+Tarba, ID 148
+Evolves at level 45 in
+Tarboo, ID 149
+Greniverb, ID 166
+Evolves at level 35 in
+Bamboustica, ID 167
+Fennebel, ID 179
+Evolves at level 24 in
+Shadyena, ID 180
+Gossolo, ID 221
+Evolves at level 24 in
+Quartantula, ID 222
+Evolves by playing rhythm games in the Music Hall in
+Symphonid, ID 223
+Griphone, ID 241
+humbabang, ID 242
+Chimerus, ID 243
+Echoplasm, ID 276
+Evolves at level 34 in
+Banshreek, ID 277
+Monoddo, ID 236
+Evolves at level 40 in
+Rhinodyo, ID 150
+Zombone, ID 293
+Evolves at level 30 in
+Skeletone, ID 294
+Mutmo, ID 123
+Evolves by playing rhythm games in Music Hall (60% above score required) in
+Rythmond, ID 303
+Locations
+Flammia, ID 1
+Location: Received by Dr. Murettes
+Flammerick, ID 2
+Location information unavailable
+Tylavile, ID 3
+Location information unavailable
+Aquaffe, ID 4
+Location: received by Dr. Murettes
+Girmarine, ID 5
+Location information unavailable
+Fauntozaur, ID 6
+Location information unavailable
+Leefox, ID 7
+Location: Received by Dr. Murettes
+Bulpine, ID 8
+Location information unavailable
+Banyardan, ID 9
+Location information unavailable
+Squirmunk, ID 10
+Location list
+Tangeria
+Ventosa Prairie
+Taiketsu Trail
+Belltower Front
+Brightwater Trail
+Kiarre
+Siccitas Road
+Arduryx Hill
+Miterosier, ID 11
+Location list
+Tangeria
+Starwalk Mountain Outside
+Malerine Valley
+Validation Road
+Crescent Walk
+Kiarre
+Tradale Coast
+Murkit, ID 12
+Location list
+Tangeria
+Ventosa Prairie
+Amica Woods
+Mineruff Tunnel
+Kiarre
+Wudrest Valley
+Route Roshaw
+Evillion, ID 13
+Location list
+Tangeria
+Dimbranch Jungle
+Tangeria Tower Front
+Tigrath, ID 14
+Location list
+Tangeria
+Validation Road
+Crescent Walk
+Eagala, ID 15
+Location list
+Tangeria
+Sqien Path
+Hedra Way
+Eagawk, ID 16
+Location list
+Tangeria
+Brightwater Trail
+Tangeria Tower Front
+Orianda Fields
+Sky Planes
+Starwalk Mountain Outside
+Malerine Valley
+Martiagle, ID 17
+Location information unavailable
+Wormar, ID 18
+Location list
+Tangeria
+Ventosa Prairie
+Amica Woods
+Globular, ID 19
+Location list
+Tangeria
+Sqien Path
+Skirial, ID 20
+Location list
+Tangeria
+Crescent Walk
+Fyste, ID 21
+Location list
+Tangeria
+Taiketsu Trail
+Highpark Road
+Hedra Way
+Orianda Fields Ruins
+Kiarre
+Arduryx Hill
+Fyrate, ID 22
+Location list
+Tangeria
+Validation Road
+Crescent Walk
+Montor, ID 23
+Location: Tangeria's Hansha Village's Arcade, San-Cot Factory (x2), by trade in Avalette City
+Mondevol, ID 24
+Location information unavailable
+Zinbat, ID 25
+Location list
+Tangeria
+Mineruff Tunnel
+Mineruff Tunnel F2
+Kiarre
+Solphear Cave
+Struttal Cave
+Struttal Cave F2
+Struttal Cave F3
+Struttal Cave F4
+Ancient Crypt
+Zintrabat, ID 26
+Location list
+Tangeria
+Tangeria Sewer System
+Ascendance Path
+Ascendance Path F3
+Ascendance Path F4
+Kiarre
+Cave of Fates
+Cave of Fates F2
+Cave of Fates F0
+Fateful Underground
+Solphear Cave F2
+Ancient Crypt
+Sonasette Tunnel
+Requiem
+Lower Catacombs
+Lower Catacombs F2
+Lower Catacombs F3
+Lower Catacombs F4
+Lower Catacombs F5
+Orystar, ID 27
+Location list
+Requiem
+Dyaz Royaum Ruins
+Barren Underground
+Barren Underground F2
+Barren Underground F3
+Barren Heart
+Requiem Implosion
+Jiminar, ID 28
+Location list
+Tangeria
+Amica Woods
+Kiarre
+Vermechaw Powerplant
+Vermechaw Powerplant F2
+Vermechaw Powerplant F3
+Storm Jiminar
+Jiminite, ID 29
+Location list
+Tangeria
+Validation Road
+Kiarre
+Outer Tradale
+Storm Jiminite
+Transformation of Storm Jiminar
+Jimitron, ID 30
+Location information unavailable
+Storm Jimitron
+Owlaw, ID 31
+Location list
+Tangeria
+Amica Woods
+Kiarre
+Wudrest Valley
+Shadow Canyon
+Abandond Hotel
+Ancient Stadium
+Dilapidated Marketplace
+Owlex, ID 32
+Location list
+Tangeria
+Orianda Fields
+Kiarre
+Dyeur Hills
+Kwensette
+Mamish Outskirts
+Fowliture, ID 33
+Location information unavailable
+Chingle, ID 34
+Location: Bell Master Saggos (in the Bell Tower in Hazel dell City)
+Bellaard, ID 35
+Location information unavailable
+Vibrogen, ID 36
+Location list
+Tangeria
+Belltower Front
+Kiarre
+Wudrest Valley
+Recobrah, ID 37
+Location list
+Tangeria
+Tangeria Tower Front
+Crescent Walk
+Hydrake, ID 38
+Location list
+Tangeria
+Dimbranch Jungle
+Pandourbit, ID 39
+Location:
+Tangeria
+Chest in Amica Woods, and Dimbranch Jungle (only 2 can be caught)
+Kiarre
+Shadow Canyon
+Tadder, ID 40
+Location list
+Tangeria
+Sqien Path
+Kiarre
+Siccitas Road
+Name, Friggle, ID 41
+Location list
+Tangeria
+Hedra Way
+Dimbranch Jungle
+Orianda Fields
+Ascendance Path F2
+Conyoray City
+Kiarre
+Thunder Prairie
+Kiarre Ocean
+Ascendance Path rainy area
+Frorgeril, ID 42
+Location list
+Requiem
+Barren Underground
+Barren Underground F2
+Barren Underground F3
+Barren Heart
+Sapple, ID 43
+Location list
+Tangeria
+Sqien Path
+Kiarre
+Dyeur Hills
+Name, Sprucel, ID 44
+Location list
+Kiarre
+Dyeur Hills
+Junanchel, ID 45
+Location information unavailable
+Ratsal, ID 46
+Location list
+Tangeria
+Tangeria Sewer System
+Kiarre
+Shadow Canyon
+Abandond Hotel
+Ancient Stadium
+Dilapidated Marketplace
+Ratiera, ID 47
+Location list
+Kiarre
+Ascendance Path swamp
+Larvae, ID 48
+Location list
+Tangeria
+Mineruff Tunnel F2
+Hedra Way
+Mount Cindar
+Mount Cindar F2
+Mount Cindar F3
+Lavalan, ID 49
+Location list
+Kiarre
+Tradale Coast
+Magmizire, ID 50
+Location information unavailable
+Manja, ID 51
+Location list
+Tangeria
+Mineruff Tunnel
+Mineruff Tunnel F2
+Kiarre
+Solphear Cave
+Niamanja, ID 52
+Location list
+Tangeria
+Orianda Fields Ruins
+Starwalk Mountain
+Starwalk Mountain F2
+Starwalk Mountain Outside
+Starwalk Mountain F3
+Starwalk Mountain F4
+Starwalk Mountain F5
+Upper Starwalk Mountain
+Requiem
+Lower Catacombs
+Lower Catacombs F2
+Lower Catacombs F3
+Lower Catacombs F4
+Lower Catacombs F5
+Chinkon Hill
+Ninjarkin, ID 53
+Location information unavailable
+Leonra, ID 54
+Location list
+Tangeria
+Mineruff Tunnel
+Mineruff Tunnel F2
+Leonra weighs 58 KG and is 1.05 meters tall.
+Lonar, ID 55
+Location list
+Tangeria
+Dimbranch Jungle
+Tangeria Tower Front
+Kiarre
+Cave of Fates
+Kwensette
+Old Cave
+Name, Ghost Lonar
+Location: Hole in Requiem
+Leonatar, ID 56
+Location information unavailable
+Name, Ghost Leonatar
+Location list
+Requiem
+Chinkon Hill
+Dyaz Royaum Ruins
+Granate, ID 57
+Location list
+Tangeria
+Mineruff Tunnel
+Mineruff Tunnel F2
+Mount Cindar
+Mount Cindar F2
+Mount Cindar F3
+Kiarre
+Solphear Cave
+Promolder, ID 58
+Location list
+Tangeria Sewer System
+Starwalk Mountain
+Starwalk Mountain F2
+Starwalk Mountain Outside
+Starwalk Mountain F3
+Starwalk Mountain F4
+Starwalk Mountain F5
+Ascendance Path
+Ascendance Path F3
+Ascendance Path F4
+Kiarre
+Solphear Cave F2
+Desert Tunnel
+Sonasette Tunnel
+Requiem
+Lower Catacombs
+Lower Catacombs F2
+Lower Catacombs F3
+Lower Catacombs F4
+Lower Catacombs F5
+Kwensette
+Great Cave Geodaehan
+Craggallem, ID 59
+Location information unavailable
+Autoson, ID 60
+Location:
+Tangeria
+Hansha Village's Arcade, San-Cot Factory (X2), by trade in Avallette City.
+Kiarre:
+By trade in Soallfoa, YGC Shop
+Titomaton, ID 61
+Location information unavailable
+Domestress, ID 62
+Location:
+Tangeria: Sky Plains (Only 3 available for a catch)
+Kiarre: Location information unavailable
+Boibul, ID 63
+Location list
+Tangeria
+Highpark Road
+Brightwater Trail
+Bayowoof, ID 64
+Location list
+Tangeria
+Tangeria Tower Front
+Ascendance Path F2
+Crescent Walk
+Kiarre: By trade in Traudail Village, I think
+Jackanaipe, ID 65
+Location list
+Tangeria
+Taiketsu Trail
+Highpark Road
+Sky Planes
+Name, Enchandithol, ID 66
+Location list
+Tangeria
+Validation Road
+Kwensette
+Grotena Rainforest
+Wizz, ID 67
+Location list
+Tangeria
+Highpark Road
+Sky Planes
+Kiarre
+Route Roshaw
+Wizzell, ID 68
+Location list
+Tangeria
+Crescent Walk
+Erroir, ID 69
+Location list
+Tangeria
+Hedra Way
+Kiarre
+Outer Tradale
+Validation Road
+Requiem
+Chinkon Hill
+Ghoulad, ID 70
+Location list
+Tangeria
+Avalette Graveyard
+Kiarre
+Great Hall
+Storage Room
+Royal Bed Chamber
+Pleasure Chamber
+Treasury
+Hallway
+Tearoom
+Tower B
+Morghoul, ID 71
+Location list
+Kiarre
+Sonasette Tunnel
+Fiendour, ID 72
+Location information unavailable
+Hydrobird, ID 73
+Location list
+Tangeria
+Hedra Way
+San-cot Beach
+Orianda Fields
+Dramegon, ID 74
+Location list
+Requiem
+Desert Dragon Lair
+Loonis, ID 75
+Location list
+Tangeria
+Hedra Way
+San-cot Beach
+Tangeria Tower Front
+Orianda Fields
+Sacroloon, ID 76
+Location information unavailable
+Tedibern, ID 77
+Location list
+Tangeria
+Mount Cindar
+Mount Cindar F2
+Mount Cindar F3
+Merembear, ID 78
+Location information unavailable
+Sluggugg, ID 79
+Location list
+Tangeria
+Mount Cindar
+Mount Cindar F2
+Mount Cindar F3
+Kiarre
+Validation Road
+Ascendance Path volcano
+Escargma, ID 300
+Transformation of Sluggugg
+Location list
+Requiem
+Requiem Implosion
+Gronk, ID 80
+Location list
+Tangeria
+Mount Cindar
+Mount Cindar F2
+Mount Cindar F3
+Kiarre
+Struttal Cave
+Struttal Cave F2
+Struttal Cave F3
+Struttal Cave F4
+Groller, ID 81
+Location list
+Kiarre
+Cave of Fates
+Cave of Fates F2
+Cave of Fates F0
+Grandlan, ID 82
+Location information unavailable
+Burgan, ID 83
+Location list
+Tangeria
+San-cot Beach
+Kwensette
+Grotena Rainforest
+Arctana, ID 84
+Location list
+Tangeria
+Tangeria Sea
+Conyoray City
+Kiarre
+Kiarre Ocean
+Deciced, ID 85
+Location list
+Requiem
+Barren Underground
+Barren Underground F2
+Barren Underground F3
+Barren Heart
+Frozen Hinterland
+Reefe, ID 86
+Location list
+Tangeria
+San-cot Beach
+Brightwater Trail
+Tangeria Sea
+Kwensette
+Grotena Rainforest
+Submenno, ID 87
+Location list
+Tangeria
+Master's Rest
+Conyoray City
+Kiarre
+Kiarre Ocean
+Palador, ID 88
+Location list
+Tangeria
+Starwalk Mountain
+Paladine, ID 89
+Location list
+Tangeria
+Starwalk Mountain F2
+Starwalk Mountain F3
+Starwalk Mountain F4
+Starwalk Mountain F5
+Upper Starwalk Mountain
+Tenshaino, ID 90
+Location information unavailable
+Myaneko, ID 91
+Location list
+Tangeria
+Brightwater Trail
+Kiarre
+Validation Road
+Trumer, ID 92
+Location list
+Tangeria
+Brightwater Trail
+Dimbranch Jungle
+Kiarre
+Outer Tradale
+Ascendance Path swamp
+Finaut, ID 93
+Location list
+Tangeria
+Sqien Path
+Brightwater Trail
+Kwensette
+Grotena Rainforest
+Fyngon, ID 94
+Location list
+Kiarre
+Kiarre Ocean
+Ascendance Path rainy area
+Kwensette
+Mamish Outskirts
+Cacone, ID 95
+Location list
+Tangeria
+Amica Woods
+Kiarre
+Siccitas Road
+Bombusect, ID 96
+Location information unavailable
+Pythor, ID 97
+Location list
+Tangeria
+Dimbranch Jungle
+Tangeria Tower Front
+Sky Planes
+Kiarre
+Vermechaw Powerplant
+Vermechaw Powerplant F2
+Vermechaw Powerplant F3
+Thundron, ID 98
+Location list
+Tangeria
+Crescent Walk
+Guerrerrol, ID 99
+Location list
+Tangeria
+Dimbranch Jungle
+Terruffalo, ID 100
+Location list
+Tangeria
+Sky Planes
+Ascendance Path F2
+Crescent Walk
+Kiarre
+Validation Road
+Master's Heights
+Kwensette
+Mamish Outskirts
+Feruddae, ID 101
+Location list
+Tangeria
+Orianda Fields Ruins
+Kiarre
+Thunder Prairie
+Steellion, ID 102
+Location list
+Kiarre
+Master's Heights
+Spirost, ID 103
+Location list
+Tangeria
+Avalette Graveyard
+Kiarre
+Great Hall
+Storage Room
+Royal Bed Chamber
+Pleasure Chamber
+Treasury
+Hallway
+Tearoom
+Tower B
+Aperishian, ID 104
+Location information unavailable
+Aperishian weighs 0.25 KG and is 0.92 meters tall.
+Mortrex, ID 105
+Location information unavailable
+Feefeye, ID 106
+Location list
+Tangeria
+Orianda Fields Ruins
+Starwalk Mountain
+Starwalk Mountain F2
+Starwalk Mountain F3
+Starwalk Mountain F4
+Starwalk Mountain F5
+Kiarre
+Seult Desert
+Foefumb, ID 107
+Location list
+Tangeria
+Ascendance Path
+Ascendance Path F3
+Ascendance Path F4
+Garganchan, ID 108
+Location list
+Requiem
+Barren Underground
+Barren Underground F2
+Barren Underground F3
+Barren Heart
+Electrist, ID 109
+Location list
+Kiarre
+Vermechaw Powerplant
+Vermechaw Powerplant F2
+Vermechaw Powerplant F3
+Donnammer, ID 110
+Location list
+Tangeria
+Tangeria Sewer System
+Ascendance Path
+Ascendance Path F2
+Ascendance Path F3
+Ascendance Path F4
+Javoltrik, ID 191
+Location information unavailable
+Dormanoid, ID 111
+Location list
+Tangeria
+Ascendance Path
+Ascendance Path F3
+Ascendance Path F4
+Chiroperta, ID 112
+Location list
+Tangeria
+Tangeria Tower Front
+Kiarre
+Great Hall
+Storage Room
+Royal Bed Chamber
+Pleasure Chamber
+Treasury
+Hallway
+Tearoom
+Tower B
+Ghoperto, ID 113
+Location list
+Tangeria
+Ascendance Path
+Ascendance Path F3
+Ascendance Path F4
+Kwensette
+Aimort Plateau
+Sansuran, ID 114
+Location list
+Tangeria
+Tangeria Sewer System
+Kiarre
+Qweugum Swamp
+Sansurgion, ID 115
+Location information unavailable
+Viralite, ID 116
+Location list
+Tangeria
+Amica Ruins
+Verlorene Ruins
+Kwensette
+Aimort Plateau
+Sullorb, ID 117
+Location list
+Tangeria
+Starwalk Mountain F2
+Starwalk Mountain F3
+Starwalk Mountain F4
+Starwalk Mountain F5
+Upper Starwalk Mountain
+Ascendance Path
+Ascendance Path F3
+Ascendance Path F4
+Kiarre
+Struttal Cave
+Struttal Cave F2
+Struttal Cave F3
+Struttal Cave F4
+Sonasette Tunnel
+Kwensette
+Great Cave Geodaehan
+Name, Embird, ID 118
+Location list
+Tangeria
+Orianda Fields
+Starwalk Mountain Outside
+Malerine Valley
+Ascendance Path F2
+Kiarre
+Peninsula Wilds
+Dyeur Hills
+Seult Desert
+Ascendance Path volcano
+Vultair, ID 119
+Transformation of Embird
+Location list
+Requiem
+Requiem Implosion
+Drabao, ID 120
+Location list
+Tangeria
+Orianda Fields Ruins
+Dragetull, ID 121
+Location information unavailable
+Location information unavailable
+Mutmo, ID 123
+Location:
+Tangeria:
+In one of the houses in Orianda City
+Kiarre
+In the house in Koogan Swamp, in elatia City
+Blaizond, ID 124
+Transformation of Mutmo
+Location information unavailable
+Elvond, ID 125
+Transformation of Mutmo
+Location information unavailable
+Duskond, ID 126
+Transformation of Mutmo
+Location information unavailable
+Irond, ID 301
+Transformation of Mutmo
+Location information unavailable
+Frostond, ID 302
+Transformation of Mutmo
+Location information unavailable
+Rythmond, ID 303
+Transformation of Mutmo
+Location information unavailable
+Roazah, ID 127
+Location list
+Tangeria
+Sky Planes
+Starwalk Mountain Outside
+Kiarre
+Route Roshaw
+Thornita, ID 128
+Location list
+Tangeria
+Ascendance Path F2
+Torto, ID 129
+Location list
+Tangeria
+Dimbranch Jungle
+Kiarre
+Qweugum Swamp
+Peninsula Wilds
+Turoison, ID 130
+Location list
+Tangeria
+Tangeria Sea
+Kiarre
+Tradale Coast
+Ascendance Path swamp
+Effigem, ID 131
+Location list
+Tangeria
+Starwalk Mountain
+Kiarre
+Struttal Cave
+Struttal Cave F2
+Struttal Cave F3
+Struttal Cave F4
+Sculpton, ID 132
+Location list
+Tangeria
+Starwalk Mountain F2
+Starwalk Mountain F3
+Starwalk Mountain F4
+Starwalk Mountain F5
+Kiarre
+Fateful Underground
+Simulon, ID 133
+Location list
+Kiarre
+Ascendance Path cave
+Sheepit, ID 134
+Location list
+Tangeria
+Starwalk Mountain F2
+Starwalk Mountain F3
+Starwalk Mountain F4
+Starwalk Mountain F5
+Ascendance Path
+Ascendance Path F2
+Ascendance Path F3
+Ascendance Path F4
+Kwensette
+Mamish Outskirts
+Lamgurk, ID 135
+Location information unavailable
+Squarpha, ID 136
+Location list
+Tangeria
+Tangeria Sea
+Master's Rest
+Conyoray City
+Kiarre
+Dyeur Hills
+Ascendance Path rainy area
+Zapistan, ID 137
+Location list
+Tangeria
+Validation Road
+Ascendance Path F2
+Kiarre
+Vermechaw Powerplant
+Vermechaw Powerplant F2
+Vermechaw Powerplant F3
+Dussoket, ID 138
+Location information unavailable
+Location list
+Tangeria
+Upper Starwalk Mountain
+Kiarre
+Polar Preserve
+Frenrir, ID 140
+Location list
+Kiarre
+Ascendance Path snowy area
+Requiem
+Frozen Hinterland
+Snowmonno, ID 141
+Location list
+Tangeria
+Upper Starwalk Mountain
+Kiarre
+Ascendance Path snowy area
+Redonkeus, ID 142
+Location list
+Tangeria
+Malerine Valley
+Validation Road
+Ascendance Path outside
+Remullion, ID 143
+Location information unavailable (By breeding redonkious and Stealion)
+Placebot, ID 144
+Location: Hansha's Arcade in Tangeria.
+Ampheakub, ID 145
+Location list
+Kiarre
+Brytanburg Wilderness
+Bearran, ID 146
+Location list
+Tangeria
+Malerine Valley
+Kiarre
+Springdale Turf
+Grizzlord, ID 147
+Location information unavailable
+Tarba, ID 148
+Location list
+Tangeria
+Tangeria Sea
+Tarboo, ID 149
+Location information unavailable
+Monoddo, ID 236
+Location list
+Kiarre
+Brytanburg Wilderness
+Rhinodyo, ID 150
+Transformation of Monoddo
+Location list
+Tangeria
+Malerine Valley
+Kiarre
+Master's Heights
+Eksponge, ID 151
+Location list
+Tangeria
+Tangeria Sea
+Master's Rest
+Kiarre
+Kiarre Ocean
+Sponginate, ID 261
+Transformation of Eksponge
+Location information unavailable
+Galvana, ID 152
+Location: Ascendence Path F2 (outside) (X1)
+Kinidul, ID 153
+Location: Mount Sinter (X1
+Polosses, ID 154
+Location: Paladin Point
+Zeognioss, ID 155
+Location: Faith Room, in the San-Cot Church
+Irroadium, ID 156
+Location: Chamber of Hatred
+Tabalus, ID 157
+Location: The Great Caves
+Peggisen, ID 158
+Location: Peggisun's Chamber (Reachable by using an item called Rainbo Talisman, which you get after catching 157 manamons in Manamon 1)
+Elements: Air, Flaim, Ice and Electric
+Lavrog, ID 159
+Location: Alaza's Research Lab
+Ribignis, ID 160
+Location information unavailable
+Golavath, ID 161
+Location information unavailable
+Kiduddle, ID 162
+Location: Alaza's research lab
+Gowater, ID 163
+Location information unavailable
+Kaboerain, ID 164
+Location information unavailable
+Grekko, ID 165
+Location: Alaza's Research Lab
+Greniverb, ID 166
+Location information unavailable
+Bamboustica, ID 167
+Location information unavailable
+Picsor, ID 168
+Location list
+Kiarre
+Elatia Path
+Wudrest Valley
+Wolfsyre, ID 169
+Location information unavailable
+Werewolfsyre, ID 170
+Location information unavailable
+Rucroom, ID 171
+Location list
+Kiarre
+Elatia Path
+Wudrest Valley
+Limtoroom, ID 172
+Location information unavailable
+Doving, ID 173
+Location list
+Kiarre
+Elatia Path
+Elatia Walkway
+Siccitas Road
+Arduryx Hill
+Colovaird, ID 174
+Location information unavailable
+Frolop, ID 175
+Location list
+Kiarre
+Elatia Path
+Elatia Walkway
+Siccitas Road
+Wudrest Valley
+Arduryx Hill
+Chillardent, ID 176
+Location list
+Kiarre
+Dyeur Hills
+Validation Road
+Centi, ID 177
+Location list
+Kiarre
+Siccitas Road
+Centi weighs 12.6 KG and is 0.5 meters tall.
+Centiplex, ID 178
+Location list
+Kiarre
+Outer Tradale
+Fennebel, ID 179
+Location list
+Kiarre
+Siccitas Road
+Brytanburg Wilderness
+Shadyena, ID 180
+Location information unavailable
+Yakshine, ID 181
+Location: The cave near the Virmacaw City
+Kubineral, ID 182
+Location information unavailable
+Vishthaugh, ID 183
+Location information unavailable
+Daggeetle, ID 184
+Location list
+Kiarre
+Brytanburg Wilderness
+Kwensette
+Grotena Rainforest
+Flarebra, ID 185
+Location list
+Kiarre
+Wudrest Valley
+Zebbabern, ID 186
+Location list
+Kiarre
+Ascendance Path outside
+Turrubble, ID 187
+Location information unavailable
+Gargarram, ID 188
+Location list
+Kiarre
+Solphear Cave
+Solphear Cave F2
+Sonasette Tunnel
+Ascendance Path sandy area
+Requiem
+Lower Catacombs
+Lower Catacombs F2
+Lower Catacombs F3
+Lower Catacombs F4
+Lower Catacombs F5
+Dyaz Royaum Ruins
+Vipesla, ID 189
+Location list
+Kiarre
+Vermechaw Powerplant
+Vermechaw Powerplant F2
+Vermechaw Powerplant F3
+Vyprolt, ID 190
+Location list
+Kiarre
+Ascendance Path sandy area
+Boveel, ID 192
+Location list
+Kiarre
+Arduryx Hill
+Cowmoono, ID 193
+Location list
+Kiarre
+Springdale Turf
+Ascendance Path outside
+Kamadeir, ID 194
+Location information unavailable
+Viscow, ID 195
+Location list
+Kiarre
+Arduryx Hill
+Oxenik, ID 196
+Location list
+Kiarre
+Springdale Turf
+Ascendance Path outside
+Gubbulline, ID 197
+Location information unavailable
+Gubbulline weighs 533.13 KG and is 1.31 meters tall.
+Elements, Poison
+Hilimer, ID 198
+Location list
+Kiarre
+Struttal Cave
+Struttal Cave F2
+Struttal Cave F3
+Struttal Cave F4
+Peninsula Wilds
+Molandon, ID 199
+Location list
+Kiarre
+Seult Desert
+Desert Tunnel
+Ascendance Path sandy area
+Metalarve, ID 200
+Location list
+Kiarre
+Struttal Cave F2
+Struttal Cave F3
+Struttal Cave F4
+Castwire, ID 201
+Location information unavailable
+Mantasteel, ID 202
+Location information unavailable
+Marlaunt, ID 203
+Location list
+Kiarre
+Struttal Cave F4
+Great Hall
+Storage Room
+Royal Bed Chamber
+Pleasure Chamber
+Treasury
+Hallway
+Tearoom
+Tower B
+Hipplish, ID 204
+Location list
+Kiarre
+Peninsula Wilds
+Wavotamus, ID 205
+Location list
+Kiarre
+Cave of Fates F0
+Fateful Underground
+Tradale Coast
+Luscish, ID 206
+Location list
+Kiarre
+Kiarre Ocean
+Kwensette
+Mamish Outskirts
+Angillish, ID 207
+Location information unavailable
+Mirron, ID 208
+Location list
+Kiarre
+Peninsula Wilds
+Refloron, ID 209
+Location list
+Kiarre
+Tradale Coast
+Skelitten, ID 210
+Location list
+Kiarre
+Shadow Canyon
+Abandond Hotel
+Ancient Stadium
+Dilapidated Marketplace
+Corpscat, ID 211
+Location list
+Kwensette
+Aimort Plateau
+Jagzeom, ID 212
+Location list
+Requiem
+Lower Catacombs
+Lower Catacombs F2
+Lower Catacombs F3
+Lower Catacombs F4
+Lower Catacombs F5
+Thornub, ID 213
+Location list
+Kiarre
+Shadow Canyon
+Abandond Hotel
+Ancient Stadium
+Dilapidated Marketplace
+Brytanburg Wilderness
+Furivia, ID 214
+Location list
+Kiarre
+Springdale Turf
+Treezon, ID 215
+Location information unavailable
+Torchin, ID 216
+Location list
+Kiarre
+Great Hall
+Storage Room
+Royal Bed Chamber
+Pleasure Chamber
+Treasury
+Hallway
+Tearoom
+Tower B
+Seult Desert
+Desert Tunnel
+Lantlare, ID 217
+Location list
+Kiarre
+Seult Desert
+Requiem
+Dyaz Royaum Ruins
+Requiem Implosion
+Glarie, ID 218
+Location list
+Kiarre
+Brytanburg Wilderness
+Haunted Thicket
+Pyrefly, ID 219
+Location list
+Kwensette
+Aimort Plateau
+Sylphantom, ID 220
+Location list
+Requiem
+Desert Dragon Lair
+Gossolo, ID 221
+Location list
+Kiarre
+Brytanburg Wilderness
+Quartantula, ID 222
+Location list
+Kiarre
+Validation Road
+Symphonid, ID 223
+Location list
+Requiem
+Chinkon Hill
+Leafowl, ID 224
+Location list
+Kiarre
+Route Roshaw
+Plumirage, ID 225
+Location list
+Kwensette
+Grotena Rainforest
+Fowlusion, ID 226
+Location information unavailable
+Rootle, ID 227
+Location list
+Kiarre
+Route Roshaw
+Kangard, ID 228
+Location list
+Kiarre
+Dyeur Hills
+Kangachan, ID 229
+Location information unavailable
+Coaleer, ID 230
+Location list
+Kiarre
+Elatia Walkway
+Bearnace, ID 231
+Location list
+Kiarre
+Seult Desert
+Ursinearator, ID 232
+Location list
+Kiarre
+Ascendance Path volcano
+Buppig, ID 233
+Location list
+Kiarre
+Route Roshaw
+Dirroink, ID 234
+Location list
+Kiarre
+Cave of Fates
+Cave of Fates F2
+Cave of Fates F0
+Fateful Underground
+Alluppig, ID 235
+Location information unavailable
+Cofena, ID 237
+Location information unavailable
+Cofatena, ID 238
+Location information unavailable
+Kewin, ID 239
+Location list
+Kiarre
+Dyeur Hills
+Schemu, ID 240
+Location list
+Kiarre
+Outer Tradale
+Kwensette
+Mamish Outskirts
+Griphone, ID 241
+Location list
+Kiarre
+Dyeur Hills
+Humbabang, ID 242
+Location information unavailable
+Chimerus, ID 243
+Location information unavailable
+Miasmouse, ID 244
+Location list
+Kiarre
+Qweugum Swamp
+Ancient Crypt
+Grimident, ID 245
+Location list
+Kiarre
+Ancient Crypt
+Requiem
+Lower Catacombs
+Lower Catacombs F2
+Lower Catacombs F3
+Lower Catacombs F4
+Lower Catacombs F5
+Cerberat, ID 246
+Location list
+Requiem
+Barren Underground
+Barren Underground F2
+Barren Underground F3
+Barren Heart
+Slothing, ID 247
+Location list
+Kiarre
+Springdale Turf
+Folimoss, ID 248
+Location list
+Kiarre
+Springdale Turf
+Outer Tradale
+Kwensette
+Mamish Outskirts
+Name, Slothegor, ID 249
+Location information unavailable
+Sirennet, ID 250
+Location: Mersilla's House
+Sirenea, ID 251
+Location information unavailable
+Scorchion, ID 252
+Location list
+Kiarre
+Seult Desert
+Desert Tunnel
+Araknite, ID 253
+Location list
+Kiarre
+Ascendance Path outside
+Requiem
+Desert Dragon Lair
+Requiem Implosion
+Artisoul, ID 254
+Location list
+Kiarre
+Ascendance Path outside
+Master's Heights
+Kwensette
+Aimort Plateau
+Impanzee, ID 255
+Location list
+Kiarre
+Elatia Walkway
+Normammal, ID 256
+Location list
+Kwensette
+Grotena Rainforest
+Giganatan, ID 257
+Location list
+Kiarre
+Ascendance Path outside
+Salicious, ID 258
+Location list
+Kiarre
+Qweugum Swamp
+Venomander, ID 259
+Location list
+Kiarre
+Ascendance Path cave
+Delazzard, ID 260
+Location list
+Requiem
+Desert Dragon Lair
+Location list
+Kwensette
+Grotena Rainforest
+Rumblebee, ID 263
+Location list
+Kiarre
+Outer Tradale
+Master's Heights
+Ampanda, ID 264
+Location list
+Kiarre
+Validation Road
+Kwensette
+Grotena Rainforest
+Bamboom, ID 265
+Location information unavailable
+Unicloud, ID 266
+Location list
+Kiarre
+Thunder Prairie
+Thundercolt, ID 267
+Location list
+Kwensette
+Mamish Outskirts
+Aimort Plateau
+Pegastorm, ID 268
+Location information unavailable
+Floreptile, ID 269
+Location list
+Kiarre
+Thunder Prairie
+Ohmeleon, ID 270
+Location information unavailable
+Glimerodo, ID 271
+Location information unavailable
+Calculade, ID 272
+Location list
+Kiarre
+Thunder Prairie
+Blade Dodderator, ID 273
+Location list
+Kiarre
+Master's Heights
+Requiem
+Chinkon Hill
+Brain Dodderator
+Flounger, ID 274
+Location list
+Kiarre
+Kiarre Ocean
+Kwensette
+Mamish Outskirts
+Angorge, ID 275
+Location list
+Kiarre
+Kiarre Ocean
+Echoplasm, ID 276
+Location list
+Kiarre
+Haunted Thicket
+Ancient Crypt
+Banshreek, ID 277
+Location list
+Kiarre
+Ancient Crypt
+Ascendance Path cave
+Minitaur, ID 278
+Location list
+Kiarre
+Shadow Canyon
+Abandond Hotel
+Ancient Stadium
+Dilapidated Marketplace
+Clubbull, ID 279
+Location list
+Kiarre
+Cave of Fates F2
+Cave of Fates F0
+Fateful Underground
+Ascendance Path cave
+Mightauras, ID 280
+Location information unavailable
+Shrubbreek, ID 281
+Location list
+Kiarre
+Haunted Thicket
+Paranite, ID 282
+Location information unavailable
+Ureinaman, ID 283
+Location information unavailable
+Cloritus, ID 284
+Location list
+Kiarre
+Ancient Crypt
+Sanctosole, ID 285
+Location list
+Requiem
+Barren Underground
+Barren Underground F2
+Barren Underground F3
+Barren Heart
+Elephrost, ID 286
+Location list
+Kiarre
+Polar Preserve
+Maustodon, ID 287
+Location list
+Ascendance Path cave
+Requiem
+Frozen Hinterland
+Swinguin, ID 288
+Location list
+Kiarre
+Polar Preserve
+Name, Penguilum, ID 289
+Location information unavailable
+Limewurm, ID 290
+Location list
+Kiarre
+Solphear Cave
+Kwensette
+Great Cave Geodaehan
+Amthysto, ID 291
+Location list
+Kiarre
+Sonasette Tunnel
+Requiem
+Barren Underground
+Barren Underground F2
+Barren Underground F3
+Barren Heart
+Volanteral, ID 292
+Location list
+Requiem
+Desert Dragon Lair
+Zombone, ID 293
+Location list
+Kiarre
+Ancient Crypt
+Skeletone, ID 294
+Location list
+Kiarre
+Ancient Crypt
+Requiem
+Barren Underground
+Barren Underground F2
+Barren Underground F3
+Barren Heart
+Helpup, ID 295
+Location list
+Kiarre
+Polar Preserve
+Salvahound, ID 296
+Location list
+Kiarre
+Ascendance Path snowy area
+Rescumo, ID 297
+Location list
+Requiem
+Frozen Hinterland
+Pebbledash, ID 298
+Location list
+Kiarre
+Wudrest Valley
+Solphear Cave
+Bulderdash, ID 299
+Location list
+Kiarre
+Validation Road
+Ascendance Path cave
+Brezgard, ID 304
+Location: Unknown Cove (Sonasette Tunnel)
+Name, Karugard, ID 305
+Location: Unknown Cove (Mortan Island)
+Draakgard, ID 306
+Location: Unknown Cove (in Dragon Park in Trodail Village)
+Hathorilian, ID 307
+Location: It's Shrine in Requiem.

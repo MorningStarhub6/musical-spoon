@@ -1,0 +1,282 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Manamon 2 Helper</title>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+
+<header>
+  <h1>Manamon 2 Helper</h1>
+  <nav aria-label="Sections">
+    <ul>
+      <li><a href="#battle">Battle helper</a></li>
+      <li><a href="#next">What's next</a></li>
+      <li><a href="#items">Items in game order</a></li>
+      <li><a href="#team">My team</a></li>
+      <li><a href="#manamon">Manamon list</a></li>
+      <li><a href="#types">Type chart</a></li>
+      <li><a href="#settings">Settings</a></li>
+      <li><a href="#help">Help</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main id="main" tabindex="-1">
+
+<!-- ===================== Battle helper ===================== -->
+<section id="view-battle" class="view" aria-labelledby="h-battle">
+  <h2 id="h-battle" tabindex="-1">Battle helper</h2>
+  <p>Pick the opponent Manamon. The helper then lists your best moves against it, and which of your Manamon take the least damage from it.</p>
+
+  <h3>Choose the opponent</h3>
+  <div class="field">
+    <label for="opp-search">Search for a Manamon by name or ID number</label>
+    <input id="opp-search" type="search" autocomplete="off" spellcheck="false" aria-describedby="opp-search-help">
+    <p id="opp-search-help" class="hint">Type part of the name. Spelling mistakes are okay. Press Enter to use the best match, or press Down Arrow to move to the list of matches.</p>
+  </div>
+  <p id="opp-count" class="hint" aria-live="polite"></p>
+  <div class="field">
+    <label for="opp-list">Matching Manamon</label>
+    <select id="opp-list" size="8"></select>
+  </div>
+  <p><button type="button" id="opp-use">Use this Manamon</button></p>
+
+  <fieldset>
+    <legend>Opponent types</legend>
+    <p class="hint">Choosing a Manamon fills these in. You can also set them yourself, for example for a Manamon that is not in the list. A Manamon can have up to 4 types.</p>
+    <div class="type-row" id="opp-types"></div>
+  </fieldset>
+
+  <details>
+    <summary>Extra attack types the opponent uses (optional)</summary>
+    <p class="hint">The helper expects the opponent to attack with its own types. If you saw it use a move of another type, tick that type here.</p>
+    <div class="check-grid" id="opp-extra"></div>
+  </details>
+
+  <div id="battle-results" aria-labelledby="h-results">
+    <h3 id="h-results">Results</h3>
+    <div id="battle-output"><p>Choose an opponent first.</p></div>
+  </div>
+</section>
+
+<!-- ===================== What's next ===================== -->
+<section id="view-next" class="view" aria-labelledby="h-next" hidden>
+  <h2 id="h-next" tabindex="-1">What's next</h2>
+  <p>Tell the helper where you are in the game. It then shows the next battles from the walkthrough, with the best answers from your team, and warnings to prepare for.</p>
+
+  <h3>Where are you?</h3>
+  <div class="field">
+    <label for="progress-select">The place or battle you are at now</label>
+    <select id="progress-select"></select>
+  </div>
+  <div class="button-row">
+    <button type="button" id="progress-prev-battle">Back one battle</button>
+    <button type="button" id="progress-next-battle">I won the next battle</button>
+    <button type="button" id="progress-next-step">Next step</button>
+  </div>
+  <div class="field">
+    <label for="progress-find">Find a place or tamer by name</label>
+    <input id="progress-find" type="search" autocomplete="off" spellcheck="false">
+    <button type="button" id="progress-find-go">Find</button>
+  </div>
+  <div class="field">
+    <label for="upcoming-count">How many coming battles to show</label>
+    <input id="upcoming-count" type="number" min="1" max="30" step="1">
+  </div>
+
+  <div id="next-output"></div>
+</section>
+
+<!-- ===================== Items ===================== -->
+<section id="view-items" class="view" aria-labelledby="h-items" hidden>
+  <h2 id="h-items" tabindex="-1">Items in game order</h2>
+  <p>The item guide is sorted by map, and it pretends you already have every tool. Here the items are sorted in the order you reach each place in the walkthrough, and each item says which tool it needs, like the Rope or the Swim Gear. The helper uses your place in the game from the "What's next" section.</p>
+  <p id="items-progress-note"></p>
+
+  <h3>Your tools</h3>
+  <p class="hint">These are ticked by themselves when you pass the point in the game where you get them. You can change them. Tunnel, the Item Detector and Treasure Chest Keys depend on you, so tick them yourself.</p>
+  <div id="tool-list"></div>
+  <p><button type="button" id="tools-reset">Set tools back to follow my game progress</button></p>
+
+  <h3>Show</h3>
+  <div class="field">
+    <label for="items-filter">Which items to show</label>
+    <select id="items-filter">
+      <option value="now">Items I can get now</option>
+      <option value="later">Items I can only get later (I am missing a tool)</option>
+      <option value="reached">Both: every item in places I have reached</option>
+      <option value="all">All items, including places I have not reached</option>
+      <option value="shops">Shops</option>
+    </select>
+  </div>
+  <div class="field check">
+    <input type="checkbox" id="items-hide-got">
+    <label for="items-hide-got">Hide items I already picked up</label>
+  </div>
+
+  <details>
+    <summary>Side areas the walkthrough does not visit</summary>
+    <p class="hint">The walkthrough never goes to these places, so the helper cannot know when you can reach them. Tick a place when you can get there.</p>
+    <div id="side-areas"></div>
+  </details>
+
+  <p id="items-count" aria-live="polite"></p>
+  <div id="items-output"></div>
+</section>
+
+<!-- ===================== My team ===================== -->
+<section id="view-team" class="view" aria-labelledby="h-team" hidden>
+  <h2 id="h-team" tabindex="-1">My team</h2>
+  <p>Your Manamon, their types and their moves. Only Manamon marked "in my party" are used by the Battle helper. Changes are saved by themselves in this browser.</p>
+
+  <h3>Read my team from the game</h3>
+  <p class="hint">In the game, open each Manamon's Overview and its move list, then copy what NVDA said (for example with the NVDA speech history add-on) and paste it here. You can paste all your Manamon at once. Extra lines, like chat notifications, are ignored.</p>
+  <div class="field">
+    <label for="paste-box">Pasted game text</label>
+    <textarea id="paste-box" rows="8"></textarea>
+  </div>
+  <p><button type="button" id="paste-read">Read the pasted text</button></p>
+  <div id="paste-result" aria-live="polite"></div>
+
+  <h3>My Manamon</h3>
+  <div id="team-list"></div>
+  <p><button type="button" id="team-add">Add a Manamon</button></p>
+
+  <h3>Save or load</h3>
+  <div class="button-row">
+    <button type="button" id="data-export">Save all my helper data to a file</button>
+    <label class="file-button" for="data-import-file">Load helper data from a file</label>
+    <input type="file" id="data-import-file" accept=".json,application/json">
+    <button type="button" id="team-reset">Reset to starting team</button>
+  </div>
+</section>
+
+<!-- ===================== Manamon list ===================== -->
+<section id="view-manamon" class="view" aria-labelledby="h-manamon" hidden>
+  <h2 id="h-manamon" tabindex="-1">Manamon list</h2>
+  <p>All 307 Manamon, plus a few special forms, with their types, transformations and where to find them.</p>
+  <div class="field">
+    <label for="mon-search">Search by name or ID number</label>
+    <input id="mon-search" type="search" autocomplete="off" spellcheck="false">
+  </div>
+  <div class="field">
+    <label for="mon-type-filter">Only show this type</label>
+    <select id="mon-type-filter"></select>
+  </div>
+  <div class="field check">
+    <input type="checkbox" id="mon-unsure-only">
+    <label for="mon-unsure-only">Only show Manamon whose types are not sure</label>
+  </div>
+  <p id="mon-count" class="hint" aria-live="polite"></p>
+  <div class="field">
+    <label for="mon-list">Manamon</label>
+    <select id="mon-list" size="10"></select>
+  </div>
+  <div id="mon-details"></div>
+</section>
+
+<!-- ===================== Type chart ===================== -->
+<section id="view-types" class="view" aria-labelledby="h-types" hidden>
+  <h2 id="h-types" tabindex="-1">Type chart</h2>
+  <p>From the Complete Type Advantage Chart document. Damage starts at 1, and is multiplied once for each type the defender has: very effective is 2, normal is 1, not very effective is half, and no effect is 0.</p>
+
+  <h3>Attacking with one type</h3>
+  <div class="field">
+    <label for="chart-attack">Attack type</label>
+    <select id="chart-attack"></select>
+  </div>
+  <div id="chart-attack-out" aria-live="polite"></div>
+
+  <h3>Defending with a set of types</h3>
+  <fieldset>
+    <legend>Defender types</legend>
+    <div class="type-row" id="chart-def-types"></div>
+  </fieldset>
+  <div id="chart-def-out" aria-live="polite"></div>
+
+  <div id="chart-notes"></div>
+</section>
+
+<!-- ===================== Settings ===================== -->
+<section id="view-settings" class="view" aria-labelledby="h-settings" hidden>
+  <h2 id="h-settings" tabindex="-1">Settings</h2>
+
+  <h3>Damage estimate</h3>
+  <p class="hint">Estimated power = effect points, times the type effect, times the same-type bonus. It does not know your stats, so use it to compare moves, not as the real damage number.</p>
+  <div class="field">
+    <label for="set-stab">Same-type bonus (when the move has one of the user's own types)</label>
+    <input id="set-stab" type="number" min="1" max="3" step="0.05">
+  </div>
+  <div class="field">
+    <label for="set-dual">Moves with two types, like Ice Punch (Ice and Fighting)</label>
+    <select id="set-dual">
+      <option value="multiply">Multiply both types (this is the default)</option>
+      <option value="best">Use only the better of the two types</option>
+    </select>
+  </div>
+
+  <h3>How good is a move?</h3>
+  <p class="hint">Change these as your Manamon level up.</p>
+  <div class="field">
+    <label for="set-weak">Moves below this many effect points are terrible</label>
+    <input id="set-weak" type="number" min="0" max="300" step="1">
+  </div>
+  <div class="field">
+    <label for="set-normal">Moves below this many effect points are normal (above it they are good)</label>
+    <input id="set-normal" type="number" min="0" max="300" step="1">
+  </div>
+  <div class="field">
+    <label for="set-good">Moves up to this many effect points are good (above it they are really great)</label>
+    <input id="set-good" type="number" min="0" max="300" step="1">
+  </div>
+
+  <h3>Your game</h3>
+  <div class="field">
+    <label for="set-starter">Your starting Manamon (Byron always uses the starter that beats yours)</label>
+    <select id="set-starter">
+      <option value="Grekko">Grekko (then Greniverb and Bamboustica)</option>
+      <option value="Lavrog">Lavrog (then Ribignis and Golavath)</option>
+      <option value="Kiduddle">Kiduddle (then Gowater and Kaboerain)</option>
+    </select>
+  </div>
+
+  <h3>Saved data</h3>
+  <p><button type="button" id="data-clear">Delete everything this helper saved in this browser</button></p>
+</section>
+
+<!-- ===================== Help ===================== -->
+<section id="view-help" class="view" aria-labelledby="h-help" hidden>
+  <h2 id="h-help" tabindex="-1">Help</h2>
+  <h3>Moving around</h3>
+  <ul>
+    <li>The section links are at the top of the page, in a navigation landmark. Press D in NVDA browse mode to jump to it.</li>
+    <li>Every section starts with a level 2 heading, and each part inside has a level 3 or 4 heading. Press H, or the numbers 2, 3 and 4, to jump between them.</li>
+    <li>Results are in tables. Press T to jump to a table, then use Control plus Alt plus the arrow keys to read cells.</li>
+    <li>Short summaries are spoken by themselves after you choose an opponent.</li>
+  </ul>
+  <h3>How the numbers work</h3>
+  <ul>
+    <li>Type effect: start at 1, multiply by the chart value for each defender type. Very effective is 2, normal 1, not very effective half, no effect 0. Example: Insect against Air and Magic is 2 times half, so 1, normal.</li>
+    <li>Estimated power: effect points times type effect times the same-type bonus (1.5 by default). A 30 effect point move that is very effective is still only 60, which is weaker than a normal 65 move.</li>
+    <li>The opponent is expected to attack with its own types, so "takes the least damage" is worked out from those types, plus any extra types you tick.</li>
+    <li>Status moves (moves with no effect points) are not ranked. Moves whose power changes, like Sound Wave, are listed separately.</li>
+    <li>Spirit Sight: if a Manamon knows it, its Fighting and Standard moves can hit Ghost types after you use Spirit Sight.</li>
+  </ul>
+  <h3>Where the data comes from</h3>
+  <ul id="help-sources"></ul>
+  <p>Some Manamon types in the list file are not sure. They are marked "not sure" in the helper. When the game tells you the real types (the Overview says, for example, "Groller is Earth and Magic type"), fix them in the Manamon list section. Your fixes are saved.</p>
+</section>
+
+</main>
+
+<div id="announcer" class="visually-hidden" role="status" aria-live="polite" aria-atomic="true"></div>
+
+<script src="data/manamon-data.js"></script>
+<script src="data/starting-team.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

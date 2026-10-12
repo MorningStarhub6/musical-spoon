@@ -1,0 +1,896 @@
+Hello and welcome to the Manamon 2 Item Guide. This is a (mostly) complete listing of all items found in Manamon 2, organised by location. Of course, we are only human and have no doubt missed an item or two. If you found something that's not in the guide, feel free to contact me and I will endeavour to update the guide as soon as possible. Contact info is at the bottom.
+Now, with that out of the way, let's get on with the show.
+Note: A star (*) denotes a hidden item, and a @ sign (@) denotes an area.
+@Your House
+	•	50 gold: In a chest just south of your room.
+	•	Herb: Mum's room, alcove in the southwestern corner.
+	•	*Rare Jewel: A few steps west of the herb.
+@Elatia Path
+	•	Antidote: Follow the north wall from the Lellapol Village entrance.
+	•	Treasure Chest Key: After going through the small gap in the east wall, follow the south wall and you'll find this in a chest.
+	•	Herb: Very close to the Elatia City entrance.
+	•	Marine Cannon: When you get out of the first patch of water if coming from Lellapol Village, ignore the cave entrance you hear and swim east instead. You'll find this chest floating in the water.
+@Elatia City
+	•	Power Potion: Given to you by a girl in a house northeast of the hotel.
+	•	Anagrams Game Disk: Behind the useless machine in Alozza's Research Facility F2.
+	•	*Encounter Down x2 + 50 gold: In the small space between Alozza's Research Facility and the northwest corner. Two steps south and one west from the northeast wall.
+@Elatia Walkway
+	•	Smelling Salts: Near the north wall.
+	•	Herb: Near the south wall, past the smelling salts.
+@Qweugum Swamp
+Note: This place is confusing, kind of like a certain other place that must not be named, so unfortunately items may not always have perfect directions (or directions at all). Blame Aaron.
+	•	*Levelup Herb: In the northeast corner of the Mutmo house.
+	•	Levelup Herb: From the entrance, go east, defeat the two tamers, then go generally east-ish.
+	•	250 gold
+	•	Strong Herb
+	•	Silver Tonic
+	•	Giganet x2
+	•	Treasure Chest Key
+	•	Rare Jewel x3
+	•	Full Revive: In a chest.
+	•	Life Tonic: In a chest just east of the Mutmo house.
+	•	Sweet Tonic: Northwest-ish of the climbable tree.
+@Siccitas Road
+	•	Scorch Ointment: Go west from the Elatia exit and you'll find this in a chest.
+	•	Herb: From the chest, follow the north wall, then go north after it cuts out.
+	•	*Premium Mananet: From the Elatia entrance, follow the east wall north until it cuts out, go east then south to the wall, take three steps north, then three steps east and press enter.
+	•	Encounter Down: A few steps northeast past Lass Marin.
+	•	Skill Drink: A few steps southeast of the Encounter Down.
+	•	250 gold: In a chest just north of the sand where you met Oghma for the first time. Take about three steps east to hear it better.
+	•	Antidote: Just west of Insect Collector Lara.
+@Konduan City
+	•	*Sweet Tonic: In the gap between the art museum and the east wall.
+@Art Museum
+	•	Revive: Just east of the glass case with the dinosaur skeleton.
+	•	*2000 gold: In a small alcove in the west wall just south of the stairs to F2.
+	•	*Daedalus Dust: Three or four steps down from the northwestern corner on F2.
+	•	*250 gold: From the dust, continue following walls south and east, but when the south wall cuts out, continue east mashing enter.
+	•	*Giganet x2: On F2, head to the southeast wall, take three steps north and go west mashing enter.
+@Oghma's House
+	•	Power Potion: West room, straight north from Oghma himself.
+	•	*Small Shield: North room, in a small alcove in the northwest corner.
+@Wudrest Valley
+	•	Baby Net: Guarded by a Turrubble.
+	•	Aura Potion: After disposing of the leftmost Turrubble, follow the path south and east.
+	•	Sweet Tonic: In a chest just past Thief Elijah.
+@Solphear Cave
+	•	5000 gold: Head straight south from the entrance and swim in the water.
+	•	*Soulless Heartstone: In an alcove in the south wall, east from the entrance.
+	•	Giganet: Keep following the path, just north of the water.
+	•	Haunted Hat: On the path south of Geologist Amber, just north of the water.
+	•	Treasure Chest Key: Swim through the water, or take a shortcut by swimming straight south from the very east side of the cave. The key is not in the water, but on the Tradale side of the cave.
+	•	500 gold: From the key, head south then east.
+@Solphear Cave F2
+	•	Miner's Gear: In a chest southwest of the ladder.
+@Vermechaw City
+	•	Full Revive + Levelup Herb + 500 gold: In a locked chest in the house west of the powerplant.
+	•	*Master Herb: Behind and slightly to the east of the hotel.
+	•	*Giganet: Behind the hotel.
+	•	*Premium Meganet: One step east and about four north of the gate to Arduryx Hill.
+@Coin Quest:
+	•	One in the exit house
+	•	One in the hotel
+	•	One in the market
+	•	Three in the powerplant
+	•	One in the room with the electrified floor
+	•	One on the second floor near the north wall
+	•	The last one on the roof from the rightmost ladder
+	•	One up the tree
+	•	One behind the hotel
+@Vermechaw Powerplant
+	•	Revive x2: In a chest to the east of the electrified floor. Look for a path east on the north side of the room.
+	•	Rare Jewel: Another chest in the same area.
+	•	*Levelup Herb: In the same room, listen for a tiny alcove in the west wall. If you just came from the two chests, take a single step north if you ???? straight west.
+	•	Strong Herb x2: Go back to Powerplant F3 after defeating Hyper Mondevol. Near the locked chest, you won't hear them from the north wall.
+	•	Healing Mist + Curing Mist + Revival Mist: Locked Chest in Powerplant F3.
+	•	ManaCode Game Disk: Right at the entrance to Powerplant F3.
+@Arduryx Hill
+	•	Stone Generator: Chest behind a log near the entrance to Struttal Cave.
+@Struttal Cave
+	•	Encounter Down: Go south from the entrance.
+	•	Mananet: From the encounter down, go east then north.
+	•	Purple Ring: Given to you by a tamer after you battle.
+	•	Slingshot: Slightly west of said tamer will be a small gap in the south wall, take it and listen for a chest.
+	•	Treasure Chest Key: Look for a gap in the east wall south of the tamer. It's in a chest.
+	•	*Ultra Encounter Down x3: Near the stairs to F2, against the southern wall.
+@Struttal Cave F2
+	•	Silver Tonic + Daedalus Dust: Locked chest northwest of the stairs.
+	•	Slingshot Blaster + 5000 gold: Chest behind a rock you'll hear if you find the locked chest.
+	•	Herb: Southeast of the stairs.
+	•	Antidote: West then south from the stairs, through a small gap in the western wall.
+	•	Holy Artifact: South past Lady Ada, in a chest down a small passage to the west.
+@Struttal Cave F3
+	•	Earth Net + Nature Net: Chest straight north from the ladder.
+	•	Strong Herb: South past Athlete Manuel.
+	•	Herb: Keep following walls, when the north wall cuts out follow the west wall.
+	•	Skill Drink x2 + UP Restorative: Chest in the southwest corner of a long passage just before the stairs to F4.
+	•	*Revive x2: Straight north from the chest.
+@Struttal Cave F4, Up the Ladder
+	•	Treasure Chest Key: Follow the west wall north and west from the ladder.
+	•	*Rare Jewel + 100 gold: One step south and three west from the person telling you about a different way to F4, who will also give you a total cure.
+@Solphoa Peninsula
+	•	Scorch Ointment x5: Given to you by someone in the hotel.
+	•	Flier, 500 gold, Strong Herb: Scattered among the tables at Madam Boveel's.
+	•	Nymph Wand: Along the east wall of Madam Boveel's, near the south wall.
+@Peninsula Wilds
+	•	Gunk Element: Just east of the house.
+@Polar Preserve
+	•	Ancient Crypt Key: In a chest in the northeastern corner.
+	•	*Treasure Chest Key: From the entrance to the main area, go as far west as you can, then one step north.
+	•	Ice Staff: From the entrance to the main area, follow the east wall north, then east to a patch of ice you can slide on. At the end of that path.
+	•	Life Tonic: On said patch of sliding ice, slide from the very north edge of it. There's a path north which leads to water, followed by more ice. It's on the ice, line yourself up using the water.
+@Shadow Canyon
+	•	Revive x2 + Element Guard: In a locked chest in the northeastern corner of the abandoned hotel.
+@Ancient Stadium
+	•	Max Skill Drink: From the door, go slightly north and east.
+	•	Herb: From the door, follow walls east, north then west, or go straight north then slightly east from the max skill drink.
+	•	*Strong Herb + Revive: Follow walls west and north, then go through a small gap west into a long passage, at the end of which you'll find these.
+	•	Encounter Down x3: From the hidden items above, take one or two steps to the east until the north wall cuts out, then go north.
+	•	Herb x3: From the encounter downs, follow walls east and north.
+	•	Strong Herb x2 + Headstone Amulet: Locked chest at the end of a long passage east.
+@Great Hall
+	•	Total Cure: On the bottom left table.
+	•	EXP Pal: Locked chest southwest.
+	•	100 gold, 100 gold: On the second and third tables up from the bottom right.
+	•	Total Cure: In a box in the storage room.
+	•	Bone Dagger: In a chest east of the metal post in the servants' quarters.
+	•	Strong Herb: Climb the metal post, then fight a Pandourbit for it.
+	•	50 gold: From the bone dagger, follow walls south, west, then south.
+	•	Medical Miracle: From the gold, follow walls south, then go through the small gap east.
+	•	50 gold: South of the bed with the Ratsal in it.
+	•	Daedalus Dust: In the royal bedchamber, northwest corner near the door.
+	•	Max Skill Drink + Max UP Restorative: Treasury, chest near the south wall.
+	•	250 gold: Chest straight north of the other one.
+	•	Spirit Staff V2.0: In a locked chest east of the other two chests.
+	•	250 gold: Chest north, west, then south of the door leading to the hallway.
+	•	*Rare Jewel: Southeast of that chest.
+	•	Tower B Key: On the table in the tea room.
+	•	*Herb x2 + 50 gold: In a small area southeast of the table in the tea room.
+	•	Old Hammer: Lookout, you can't miss it.
+@Submarine Tunnel
+	•	Diver's Gear: In a chest in the water, southeast corner.
+	•	Update Installer: Let the current push you to the east, head south past the teleporter, then east.
+	•	Screen Shield: In a chest just southeast of the update installer.
+	•	*1000 gold: Near the update installer, swim to the west wall, move east two steps, then go north a couple of steps.
+@Route Roshaw
+	•	Full Revive: From the Shadow Canyon entrance, go all the way south, west, through the gap in the south wall, then east to some water.
+	•	*Dark Blade: Right before the water, go north mashing enter.
+	•	*Silver Tonic: Instead of going east to the water, go west. When the north wall cuts out, take two steps west, then go north mashing enter.
+	•	Sweet Tonic: In that same area, in the northwest corner.
+	•	Daedalus Dust: Also in that area, near the south wall.
+	•	Super Encounter Down: After defeating Lad Teddy, follow the west wall north, then west. Once the north wall disappears, go north.
+	•	*Star Element: One step south and a few steps east of Gardener Seth.
+	•	Dimbranch Club: Just southeast of the hidden star element.
+	•	Meganet: A few steps south of the Brytanburg Wilderness exit.
+@Brytanburg Wilderness Front
+	•	300 gold: From a rich kid standing against the east wall outside.
+@Brytanburg Wilderness
+	•	Mighty Herb: Northeast past Explorer Krystal.
+	•	*Polar Bug: After defeating Genius Carli, head east through the small gap, mashing enter on the way.
+	•	Paralysis Vaccine: Past the hidden polar bug, head east until the path opens up to the north, you'll hear the item to the east.
+	•	Mystic Honey: East of Programmer Archie.
+	•	Herb: South of the person who wants mystic honey.
+	•	Levelup Herb: In a chest past a breakable rock, to the west.
+	•	Crowbar: In a chest on an eastern path past Country Woman Francine.
+	•	Ultra Encounter Down: In a chest past the log near the entrance.
+	•	Total Cure x3: After defeating Hyper Symphonid, head north and west after that path opens up. You'll find these in a chest.
+	•	*Silver Tonic: North of the chest with the total cures.
+	•	*Premium Giganet: Near the exit to Brytanburg, two steps west from the east wall.
+@Haunted Thicket
+	•	Soulless Heartstone: From the entrance, head west, take a step south through the tiny opening, west, then north.
+	•	Hundred Arm Coat: In a chest east of the climbable tree.
+	•	Treasure Chest Key: Follow the south wall west, south, and east from the climbable tree.
+	•	UP Boost x2 + Max UP Boost: Locked chest west of the treasure chest key.
+	•	Kumori Cloak: Up the tree, then south.
+@Brytanburg City
+West
+	•	Scorch Ointment: In the hospital, between the first two pairs of patient rooms.
+	•	Medical Miracle x2: Chest in the hospital, all the way down the western hallway.
+	•	UP Restorative: In the hospital, northeast corner.
+	•	200 gold: In a chest in the house east of the hospital.
+	•	300 gold, Madam Boveel's Meat Pie, Sweet Tonic: On the tables at Madam Boveel's. Ignore the rightmost column, nothing on those.
+North
+	•	100 gold, Baby Net, Skill Drink, Strong Herb, Skill Drink, 100 gold, 100 gold: Scattered around the benches and tables in the cafe.
+	•	*500 gold, 500 gold, 500 gold, 500 gold: All hidden in a house in the southwestern part of Brytanburg North, upstairs on the east side.
+	•	Treasure Chest Key: Awarded to you for completing world 1 in the music hall.
+	•	Family Heart: Complete world 2.
+	•	Gene Emblem: Achieve superb, or 80+ points, in all music minigames.
+South
+	•	Hangmon Game Disk: YGC shop.
+	•	Classic Shield + Chlorophyll Element: Locked chest, southernmost house.
+@Brytanburg Worship Space
+	•	Curing Mist: On the left side of the bottom left bench.
+	•	Holy Artifact: North of the top left bench.
+	•	1000 gold: South of the bench second from the top right.
+	•	UP Boost: Between the top and middle right benches, head east.
+	•	Meganet x2: Northwest corner.
+@Ancient Crypt
+	•	Dark Shroud: In a chest following walls east of the entrance.
+	•	Treasure Chest Key: In a chest west and north of the entrance.
+	•	Life Tonic: In a chest south and east from the previous one.
+	•	Angel Pendant: From the door, head east until you get teleported. Follow the path east to some ice, then go through a door.
+@Thunder Prairie
+	•	Item Detector: Buried under a tree with an unusual symbol on it, bring a manamon with Tunnel. Note that you must speak to the person who tells you about the tree first, otherwise you won't even get the prompt.
+	•	Antique Jewel x5: In a locked chest buried under the same tree.
+	•	*Treasure Chest Key: Move east to the first set of trees. Take one step north of the second one, then take a few steps west mashing enter, or use your shiny new item detector.
+	•	Lightning Element: South past all the trees.
+	•	Hive Buster: In a chest west then north of the entrance.
+	•	*Revive: Just a few steps south and west of the chest. Specifically, get to the northwest corner, take two steps south and one east.
+	•	Elec Claw: Chest in the water, northeast corner.
+	•	50 gold x2: Swim out of the water to the north, then swim to the east.
+	•	Word Chain Game Disk: In the same place as the gold.
+	•	*50 gold x20 (?): In the same place as above, use the item detector but be prepared for a horribly loud noise, there are a lot of small 50 gold piles here.
+@Dyeur Hills
+	•	Antidote: From the entrance, follow walls north.
+	•	*Full Revive: In the northeastern corner, following the path east from Guitarist Jude.
+	•	Treasure Chest Key: In a small passage north of Lady Diana.
+	•	1000 gold: Another small passage, south of Lady Diana.
+	•	Sweet Tonic: In a chest southwest of Guitarist Aaron.
+	•	Skill Drink x2: After defeating Country Boy Charlie, continue west, even after the wall cuts out. If Charley is already gone, look for the spot past the machine where gravel becomes grass.
+	•	Giganet: Follow walls north and east past Lad Rusty, watch out for a small gap.
+	•	Fairy Suit: In a chest, just before the long east passage where you'll find gold.
+	•	150 gold: Follow walls past the two country boys, you can't miss this.
+	•	Super Encounter Down: Very close to the exit to Mechamo City.
+@Mechamo City
+	•	*Healing Mist: Hidden in the house west of the hotel, right next to the equipment vender.
+	•	Curing Mist: In the renamer's house.
+	•	Lightning Element: East of the airport.
+	•	Downfall Game Disk: Airport, northwest.
+	•	Optical Potion: Given by a person in the airport.
+@Seult Desert
+Part 1
+	•	*Master Herb: From the very left edge of the exit to Mechamo, take three steps west, go north. Listen for the gap in the east wall once it appears, go east, then south.
+	•	1000 gold: Next to Programmer Jarren.
+	•	*Revive x3: North and east of Programmer Jarren, at the end of a small dead-end passage.
+	•	UP Restorative + Max UP Restorative: In a chest straight north from the Mechamo exit. If you hit the wall, move east slightly and continue north.
+	•	Ultra Encounter Down: Just before you battle the running tamer.
+	•	Desert Garb: After defeating Viola, AKA running tamer, AKA girl talking about beauty, take the path to the south just past her, follow walls southwest.
+	•	Life Tonic: In the first desert tunnel, follow the north wall, watch for a small gap.
+Part 2
+	•	Strong Herb: Defeat Ninja Kid Kristoff, then go west and south when the wall cuts out. Follow the north wall to hear it better.
+	•	Torch Hammer: From the strong herb, double back and follow walls east, north, and east, till you find this in a chest.
+	•	Smoke Element: Before the long north path leading to the second tunnel, turn south instead. This is in a chest.
+	•	Daedalus Dust: After entering the second tunnel, go west.
+	•	Gunk Element: Following the tunnel north, ignore the first path you'll see. You'll come to a small alcove to the east, where you'll find this.
+Part 3
+	•	Paralysis Vaccine: As soon as you exit the second tunnel, head east, then follow the wall south when it cuts out.
+	•	Rare Jewel: In a chest southwest of the tamer who wants to arm wrestle.
+@Seulee City
+	•	Giganet: In a chest in the house with the ability researcher.
+	•	Antidote, 1200 gold, Madam Boveel's Meat Pie: On the tables at Madam Boveel's. Specifically, on the table slightly northwest of Madam Northoak, the table west of that one, and the bottom right.
+	•	Rope: Given to you by a person east of the benches after defeating the Seulee Stadium.
+@Oghma's House
+	_.	Steel Rapier: From the teleporter, go north.
+	•	680 gold: South of the second gate.
+	•	Max UP Restorative: Follow walls south from the second gate.
+	•	*EXP Pal: By the east wall next to the chest with the max UP restorative.
+	•	*5000 gold: Near the conveyer belt in the second room, use the item detector. If you still don't have the item detector, pass the belt, follow the path east, south, then go west.
+	•	Domestress Belt: Once you climb the poll and use the first conveyer belt, step onto the second one at its southern side so the teleporter ends up north of you. It's in a chest.
+	•	Requiem Hourglass: Play with the chemicals on the table until it explodes (use items on it), then go northwest through the broken remains of the table, and you'll find this in a chest.
+	•	Venomous Lance: In the room with the door to the south and the stairs behind a forcefield, go east from the door and follow walls. Note that the path is hidden behind the forcefield, so do that first.
+	•	Levelup Herb: In a chest in the same room, following walls west of the stairs.
+@Requia Gallery
+	•	Padded Vest: In a chest, follow the south wall east from the stairs. Take four steps north of the wall if you want to pass right in front of it.
+	•	UP Boost: On the south side of the room, just above the southern conveyer belt. Stand next to its west side, take about three steps past it and start running east. Alternatively, hop on the belt for about 1.5 to 2 seconds, then step off its north side, and do as above to save yourself some walking.
+	•	Shadow Dagger: In a chest, right next to the computer on its southeast side. Walk west, hugging the south side of the computer and you'll run right into it.
+@Old Cave
+	•	Ultra Encounter Down x2: By the exit, near the west wall.
+	•	Revival Mist: Northwest corner near where you start, in a small dead-end passage. Follow walls.
+	•	Master Herb: Down a southern dead-end passage near where you start.
+@Grotena Rainforest
+	•	Resister: From the cave entrance, go west and follow walls until you find a chest.
+	•	Mighty Herb: From the chest, go slightly east then south.
+	•	Giganet: From the mighty herb, backtrack out of that area. Follow walls south, west, then north to an open area.
+	•	Swim Gear: Up the tree, northeast, near some water.
+	•	Boxing Gloves: In the water near where you found the swim gear, head straight east.
+	•	2500 gold: Once you pick up the swim gear, go as far south as you can, then turn west. You should find water, swim slightly northwest to find a little island with this chest.
+	•	Curing Mist: Head northwest out of that water, then follow the north wall as it bends west then north. You should hit water, swim east. You should hear this north of you.
+@Mamish Outskirts
+	•	Ultra Encounter Down x5 + Skill Mist: Chest in the water near the entrance. Head south, then swim west.
+	•	EXP Pal: In a chest in the water, near a healing machine. After the first tamer you'll see, head north then west, following the wall east. Head north to find the machine, the chest is on the east side of it.
+@Great Cave Geodaehan
+	•	Dojo Shield: Climb up two ladders, and you'll hear metal banging noises to the east. Break the thing, follow the unnecessarily long path of nothing. You'll find the chest at the end of the path past more of the metal things.
+	•	Spirit Staff: Right as you climb a ladder.
+	•	Flier x5: In a chest to the north, after passing by a dead-end passage and a passage with an exit grate to the east.
+@Abandoned Shrine
+	•	Dragon Claw Spear: Next to the healing machine.
+	•	1 gold (no, that's not a typo): Just south of the healing machine. Note that this item only appears if you go to the shrine through Requia, as the two are technically different maps.
+	•	Quennsette Scimitar: Chest above the teleporter, go west to find a path around it.
+@Mamia
+	•	Medical Miracle: Behind Benjamin's house.
+	•	*Rare Jewel x2 + 500 gold: In the corner against the right side of the hotel and the north wall.
+@Aimort Plateau
+	•	Soulless Heartstone: Straight north from where you come in.
+	•	Speedy Potion: From where you start, go south.
+	•	Medical Miracle: As you come in, go to the east wall and follow it south, or northeast of that potion.
+Note: This area is open and circles around. The following information is based on going north from where you start. If you went south then east, you'll probably find the total cure first.
+	•	Giganet x2: Northwest of Old Woman Lorraine, the first tamer you heard north of you when you got here. In the corner.
+	•	Encounter Down: Head south and west after defeating Tough Guy Romeo, or northwest from the guitarist who actually sticks around.
+	•	Mighty Herb: Somewhere in the area north of Romeo.
+	•	UP Boost: Down a southern dead-end path east of the mighty herb.
+	•	*Revive: South of the UP boost.
+	•	Aura Potion: South of the mighty herb, if you go east to west there are two paths going south. The potion is on the eastern one.
+	•	Total Cure: Continue going south, and you'll come to mud. It's there, on the west side. If you hear it through a wall, keep going south to find a spot where you can move west and double back.
+	•	Levelup Herb: Once you find the path to Springdale Turf, head back, following the south wall east and turning south. Take the first opening west you'll see. It's near the south wall.
+@Springdale Turf
+Note: These directions assume you're coming from Seulee City. If you're coming from Aimort Plateau, try and do these in reverse.
+	•	Quickstrike Pendant: There's a small house north of the gate to Seulee City. The person inside wants you to have a team of fast manamon, and will give you this as a reward. There is no set number requirement for this; it appears to be based on your manamons' level and training.
+	•	*Revive: This is right next to the Seulee City entrance. Head west, south, then east into a small passage. This is at the north end.
+	•	Chlorophyll Element: Go west and south, you'll see three small gaps in the west wall. Go through the middle one. If you just climbed the tree, follow the path east, head slightly north then west.
+	•	Flier x3: From the chlorophyll element, follow walls north and west.
+	•	Willow Hammer: In a chest, up the tree then south, east, then south through a small gap. Or swim through the water, then south and west to find the gap.
+	•	Sheepskin Outfit: After crossing the water, head as far southwest as you can. You'll find this in an alcove in the west wall. If you're coming from the chest or the life tonic, move straight west from the path that leads to the chest.
+	•	Giganet x3 + Meganet x5 + Silver Tonic: From the sheepskin outfit, head east, then through a small gap south. This is in a locked treasure chest to the west.
+	•	Life Tonic: From the chest, double back east and north through the gap, then follow the path east and north, a few steps west then north again when the wall opens up, and finally to the east. From Aimort, move so that the exit is just northeast of you, and head west. Note the wall that will appear north of you, double back slightly east, head north around it, follow it west, south, east, and continue following the wall southeast to find it.
+@Eternity Studio
+	•	Psychic Charm: In a chest just past the two lasers, west, then south.
+	•	Smelling Salts: Past the double battle, east past a laser.
+	•	Revive: North of the smelling salts, a gap in the east wall guarded by a really slow laser, then north and slightly west.
+Eternity Studio F2
+	•	*UP Restorative + 2000 gold: Have the cannon north of the ladder shoot you north. Look in the northeast corner for a small alcove, or use the item detector.
+	•	*UP Boost: Same room, northwest corner.
+	•	Medical Miracle: From the ladder, get shot west then north.
+	•	Healing Mist: From the ladder, head east, follow the wall bending south then more east, south again, east.
+	•	Holy Artifact: Get shot east by the cannon near the ladder, then south by the southern cannon in the next room. Follow the path east, south past two lasers and an electricity bolt, then be shot west and fall down a hole.
+	•	*Rare Jewel: Same as the holy artifact, only instead of going south to the lasers, take note of a cannon west of you. Be shot west. Head west to the wall, then south, then west. Follow the wall as it turns north, then west one step.
+	•	Update Installer: In that same area, take the ladder down, fight a tamer, then walk straight east.
+Eternity Studio F3
+	•	Gold: There are two. As soon as you walk up the stairs, run north or south. Both directions lead to different gold piles.
+	•	Max UP Restorative: Push the boxes so the path is clear, then find this guarded by a bolt of electricity near a healing machine.
+	•	Bone Club: After the massive laser storm and the belt lets you off, circle around east of it and go north, then west through a small gap. Get on the belt again, you'll bump into it.
+Eternity Studio F4
+	•	Master Herb: Through the code door, follow the south wall to the southeast.
+	•	500 gold: East of the door, take the north passage past a laser and a slow electrical bolt, then west. Following the south wall, turn north and west once the west wall opens up, you'll see it to the north.
+	•	Max UP Boost: Continue west from the gold, follow the west wall north until it opens into a dead-end passage.
+	•	Perfect Glasses: In front of the second password door, there's a cannon, shoot yourself south.
+	•	Healing Mist: Also in the same area, follow the south wall, take the west opening where the area opens up near the cannon.
+	•	Optical Potion: In front of the second forcefield, shoot yourself past the tamer to the west.
+	•	*Levelup Herb: Right next to the optical potion, just south of where the tamer is standing.
+	•	Curing Mist: In the same room, follow the west wall south.
+	•	Healing Mist: West of the curing mist.
+	•	Revival Mist: And... more west.
+	•	Skill Mist: Even more west! That's the last item.
+	•	Ultra Encounter Down: In front of the stairs to F5, take the second passage on the west wall if you're coming from the north side.
+	•	*Soulless Heartstone: Just west of the ultra encounter down.
+	•	1500 gold: Straight across from that long west passage.
+	•	*Gunk Element: Past the 1500 gold.
+Eternity Studio F5
+	•	*Antique Jewel: After the boss fight, look for a small alcove in the north wall.
+@Greater Catacombs
+	•	500 gold, 500 gold: As soon as you regain control, follow the south wall west. You'll find two piles of 500 gold, one being a bit northeast of the first one you'll hear.
+	•	Encounter Down: Follow the north wall west, then take the north passage and go with it.
+	•	Life Tonic: Continue to follow the path, you can't miss it.
+	•	Bone Dagger V2.0: From the gold, head south, squeeze into a passage to the west.
+	•	Power Dagger: Follow walls from the bone dagger to the north and west, you'll see it moving along the north wall.
+	•	1000 gold: from the power dagger, head south to the wall, west, south, then through a small southern passage. Head west. You'll hear the chest.
+	•	Andromeda Blade: Continue to follow the path from the gold, it's in the northeast corner of a small open space. Seriously, follow walls.
+@Chinkon Hill
+	•	Stone Club: From the entrance, head north and east into the water, north out of the water and east past the waterfall, then south back into the water.
+@Dyaz Royaum Ruins
+	•	Tri-Heart/Requiem Hourglass/Chrono Core: Make your way north as far as you can. The items are listed in order from left to right, but you can only pick one. After you do, all three chests will explode.
+	•	Full Revive: Fall down a hole to the east.
+@Requiem Castle
+	•	500 gold: In the outside courtyard, east wall.
+	•	Power Potion x2: Also in the courtyard, near the north wall but not quite there. Alternatively, head west from the gold.
+	•	*Life Tonic: Inside the castle, head west and north, then west to the library. The life tonic is between two of the bookshelves on the south wall. To be specific, the gap between the last one on the left and the second last.
+	•	Speedy Potion: From the south wall, head west to the first bookshelf on the west wall, north past it.
+	•	Rare Jewel: Also between two shelves, on the north wall.
+	•	Giganet: On a bookshelf on the north wall. To be specific, second from right to left.
+	•	Treasure Chest Key: Heading west from the southern entrance to the castle, you'll see another exit going south into what looks like the biggest bathroom ever. The key is in one of the sinks, for whatever reason. The sink in question is the bottom right one.
+	•	*Revive: In the southeastern stall, next to the toilet on the south wall.
+	•	*Revive + 100 gold: Northwestern stall, south wall.
+	•	250 gold: Next stall down. You'll actually hear this from where the revive was.
+	•	*Revive: What's with all the revives next to the toilets in here? Southwestern stall.
+	•	500 gold: In the throne room, on the east side in a small dead-end passage is someone who wants to bet on a coin toss.
+	•	Requiem Dust: At some point after you can time travel, Andromeda will want to battle you. She'll be in her quarters upstairs. If you win, she'll give you this.
+@Drumineshire Hamlet
+	•	Healing Mist x2: From the gate, follow the west wall to water, swim south. It's in the southwest corner.
+@Barren Underground
+	•	Revive: Just west of the entrance.
+	•	Air Claw: From the entrance, go all the way east. It'll be found hanging out inside a chest against the east wall.
+	•	Medical Miracle: West, south past the forcefield, look for a small gap in the east wall past all the fireballs. South of the fire in a chest.
+Barren Underground F2, Quartantula
+	•	Null Scissors: F2, in a chest west from the metal stairs, through a small gap in the wall.
+	•	Ultra Encounter Down x5: Past the Quartantula, use the cannon you need to use to progress, shoot yourself south, then move slightly east.
+Barren Underground F2, Chiroperta
+	•	Life Tonic: Slip between the first few Chiroperta in a northeast direction.
+	•	450 gold: Same room further in, just past the electricity. You'll hear this just before you can double back and get it.
+	•	Ultra Encounter Down x2: South of the gold in a chest, near the east wall.
+	•	500 gold: West of the chest, watch out for the bolt. South, then west. Follow the south wall and you'll see it.
+	•	Silver Tonic: Continue west, follow the west wall north and bend west with it, then south. You'll find this in a chest.
+	•	Master Herb: F3, southwest corner straight west from the stairs down.
+	•	Healing Mist: Through the spike gauntlet, after falling down the hole. It's right next to you.
+	•	Daedalus Dust: East of the healing mist.
+Barren Heart
+	•	Ancient Jawbone: In the third room, follow the east wall north.
+	•	Herb x5: Also in the third room, west of the door. Head west, then turn north as soon as you can.
+@Hinterland Shelter
+	•	EXP Pal: South wall.
+@Frozen Hinterland
+	•	Snow Shield: Chest straight north of the snowman statue you'll eventually see.
+	•	Silver Tonic: Slide into the snowman from the north side, then slide east. Follow the path. Slide north across the next ice patch from the west wall, then slide east. The chest will be east from there.
+	•	UP Boost: In a chest, hug the north wall of the area where the tonic was, slide west then take a couple of steps south.
+	•	*Giganet x5 + 100 gold: Past that ice to the north, follow the straight path and cross more ice. In the northeast corner, look for an alcove. If you hug the north wall, you'll walk right into it.
+	•	5000 gold: Eventually, you'll come to a small island of snow where you can go through narrow passages to the east and west. Go west, fight a Pandourbit for it.
+	•	Snow Rescue Suit: You'll come to a maze-like part which leads to a narrow north-south passage ending in a long ice path. Slide north, then east. Move south once the wall stops, then double back west and across the ice.
+	•	Snow Machine: Once you come to the stairs, ignore them. Go west, follow the wall and turn east once you hit the north side.
+	•	Herb x5, Mighty Herb x3, Medical Miracle, Strong Herb x4, Master Herb x2: Once you hit the stairs, you'll come out in an open area with a passage to the north. The items are scattered throughout this area. Just make two or three passes going from the west side to the east. Note that there is a healing machine near the stairs at the end of this area, so if you're hurt, don't bother using any of what you just picked up.
+	•	Revive x2: Speaking of said path to the north, you'll see this right as you leave the first area.
+	•	Full Revive: Again, there will be an opening on the north wall. This is right next to it.
+@Edge of the World
+	•	Dragon Guard + 5000 gold: In the earthquake room, get shot south, west, and west again. Go south, and eventually you should hear a chest to the west. Grab it before you get smacked by falling rocks… or just come back later.
+@Lower catacombs
+Remember the swamp and how we said there was another area like it? Well, this is it, and it's much bigger than the swamp. Therefore, same as before, directions may be wrong or non-existent. Blame Aaron.
+	•	Monseye Game Disk
+	•	250 gold
+	•	250 gold
+	•	250 gold
+	•	Revive
+	•	Sweet Tonic
+	•	300 gold
+	•	Super Encounter Down
+	•	Silver Tonic
+	•	500 gold: By the stairs to F2.
+@Lower Catacombs F2
+	•	Skill Drink
+	•	Dark Shroud + Max UP Boost: In a treasure chest.
+	•	Manaflex Game Disk
+	•	750 gold
+	•	Flier x5
+@Lower Catacombs F3
+	•	400 gold
+	•	UP Boost
+	•	250 gold
+	•	Baby Net x2
+	•	Levelup Herb
+	•	Blackmatter Husk
+	•	Bone Dagger V2.0
+	•	Coin Collector Game Disk
+	•	Spacemon Game Disk
+	•	Total Cure
+	•	Katana
+@Lower Catacombs F4
+	•	Mega Mic
+	•	Mathmon Game Disk: Southwest-ish from the stairs to F5.
+	•	Divinity Booster + 500 gold: In a locked chest.
+	•	Magnet Jacket
+	•	1000 gold
+	•	High Low Game Disk
+	•	Full Revive
+	•	Revive
+@Lower Catacombs F5
+	•	Full Revive
+	•	Slot Machine Game Disk
+	•	Weather Booster + Ancient Jawbone: Locked chest.
+	•	Healing Mist
+@Tradale Coast
+	•	Total Cure: From the Solphear Cave entrance, go north.
+	•	Max Skill Drink: Coming from Peninsula Wilds, follow walls south, east, and south again.
+	•	Holy Ring: Going south, find your way to a small gap in the east wall and follow it.
+@Tradale Village
+	•	10000 gold: In a locked chest inside a house.
+	•	Treasure Chest Key: Also in the same house, on the north side.
+	•	Chronometry Game Disk: In Dr. Corona's office, east of the machine through a little gap in the wall.
+@Sonasette Tunnel
+	•	Levelup Herb x2: Near but not quite touching the north wall, west from the entrance.
+@Sonasette City
+	•	1500 gold: Straight west from the gate to Validation Road.
+	•	*Levelup Herb: In the house, southwest corner.
+@Kiarre Ocean
+	•	*Healing Mist: On an island, can be found by going out the north side of Solphoa Peninsula and moving west until a wall pops up north of you. Follow that wall from its east side north, east, north again and then a little west.
+	•	Ultra Encounter Down: On the same island, separated by a single square of water will be a fisher. Pass him and go south.
+	•	UP Boost: West of the encounter down and a couple of steps north.
+	•	Silver Tonic x2: Swim directly east from the northern Solphoa exit.
+	•	*UP Restorative x3 + 100 gold: Right next to the tonics, in an alcove in the east wall one step north from the chest.
+	•	1000 gold: Continue following walls, past three tamers. Move north as soon as the wall opens up, and you should see it.
+	•	Levelup Herb: Keep following the linear path. In the next area through a small east gap, look along the south wall.
+	•	Max UP Boost: If you leave from Shadow Canyon, you'll eventually come to a small sandy island with water to the east, south, and west. The boost is floating somewhere south of the island.
+	•	Treasure Chest Key: East of that island and north some more is another one.
+	•	Treasure Chest Key: A small sandbar literally just outside of Mordunt Island, still on the Shadow Canyon side.
+@Mordunt Island
+	•	*1234 gold: Pass by the west side of the stadium, go north mashing enter (or use the item detector).
+	•	*Soul Saber: South of the stadium, in the mud.
+	•	Auto Item: Given to you as part of a trade.
+@Cave of Fates F2
+	•	Smoke Element: Push the boulder to the west and south as far as you can, go through the revealed west passage. Double back to the east.
+	•	Magnet Jacket: Straight west of the smoke element.
+@Cave of Fates F0
+	•	Ancient Jawbone: Go down the ladder, it's in a chest.
+@Fateful Underground
+	•	Perfect Glasses: Slide east across the ice, you'll hear the chest. Slide north, take two steps west, then slide south.
+@Guardian Chamber (Cave of Fates)
+	•	Soul Saber: In a chest a bit northeast of the pillar.
+@Validation Road
+	•	Powerhit Bracer: Once you unlock all the gates and come to the entrance to Ascendance Path, ignore it and go east instead.
+	•	Treadmill Game Disk: From the powerhit bracer, go north as far as you can, then west.
+@Ascendance Path
+	•	*Full Revive: Take four steps west from the east wall of the starting area, then slide north.
+Ascendance Path F2
+	•	Healing Mist: Eventually, you'll come to a tamer talking about online battles. Pass him and go north to find this in a chest.
+	•	1000 gold: Once you head to the outside area, follow the south wall westwards.
+	•	*Giganet: This is floating in the water, slightly west of where the electrician was.
+	•	*500 gold: Step northwest of the giganet.
+	•	Total Cure x2: You should have heard this from where the gold was, but now you can actually get it. Get out of the water by going south, it'll be just east of you.
+	•	1000 gold: Pure evil. Once you reverse the currents, in the second one going from east to west there are five piles of 200 gold along the south wall. Grab them as you're pushed.
+Ascendance Path F3
+	•	*Rare Jewel: From the ladder, go south and west. It's just above the teleporter.
+Ascendance Path F4
+	•	Giganet x5: Follow the path of Turrubble, head west when you can.
+	•	Silver Tonic: You'll eventually come to an area with a whole bunch of western passages all leading to the same general area. Pass the two tamers you'll hear, then go south and follow the east wall.
+	•	Ultra Encounter Down x2: Speaking of the tamers, this is next to them.
+Ascendance Path F5
+	•	Mighty Herb: Head due east from the stairs, then follow the wall south and east.
+	•	Elec Claw: You'll hear this as soon as you leave the water.
+	•	*Levelup Herb + 1000 gold: Just east of the nurse, you'll notice a patch of water behind the stairs. Go east in it while mashing enter.
+	•	Medical Miracle: Once you go inside, follow the path all the way to the southeast, breaking a rock along the way.
+Ascendance Path F6
+	•	Gravity Magnet: Once you stop sliding, hit the west wall, slide south. Slide west. Walk two steps north, then slide east. The chest will be east of you.
+	•	Revive: Keep on progressing. This is past the fireballs.
+	•	Master Herb x2: After the revive, you'll have a choice of east or west passages going south. Go east, then slide east across the ice.
+Ascendance Path F9, Ice Area
+	•	750 gold: From the stairs, go north, then west as soon as the wall disappears. Find this in a chest.
+	•	Max Skill Drink x2: Another chest. Going north from the stairs, the second passage up on the west side.
+	•	1500 gold: Start going north from the stairs. The very last passage on the west side.
+Ascendance Path F9, Water Area
+	•	Revival Mist: From the pole, go all the way south, then start following walls east and south until you find this in a chest.
+Ascendance Path F10, Fire Area
+	•	Giganet x2: Go north, then east to skirt around the fire. Go south.
+
+Bonus: Shop Lists
+Listed below are the inventories of every shop in the game. Please note that, depending on where you are in the game, some items may not appear, as these lists were compiled after beating the game.
+Elatia City
+	•	Mananet, 100 gold.
+	•	Herb, 250 gold.
+	•	Antidote, 50 gold.
+	•	Scorch Ointment, 50 gold.
+	•	Paralysis Vaccine, 50 gold.
+	•	Smelling Salts, 50 gold.
+	•	Flier, 30 gold.
+Konduan City
+	•	Mananet, 100 gold.
+	•	Herb, 250 gold.
+	•	Antidote, 50 gold.
+	•	Scorch Ointment, 50 gold.
+	•	Paralysis Vaccine, 50 gold.
+	•	Smelling Salts, 50 gold.
+	•	Encounter Down, 150 gold.
+	•	Flier, 30 gold.
+	•	Bone Dagger, 500 gold.
+	•	Little Wand, 500 gold.
+	•	Pesticide Wrap, 5000 gold.
+Vermechaw City
+	•	Mananet, 100 gold.
+	•	Meganet, 350 gold.
+	•	Herb, 250 gold.
+	•	Strong Herb, 650 gold.
+	•	Antidote, 50 gold.
+	•	Scorch Ointment, 50 gold.
+	•	Paralysis Vaccine, 50 gold.
+	•	Smelling Salts, 50 gold.
+	•	Encounter Down, 150 gold.
+	•	Flier, 30 gold.
+	•	Bone Dagger, 500 gold.
+	•	Little Wand, 500 gold.
+	•	Small Shield, 2000 gold.
+	•	Frail Shield, 3000 gold.
+	•	Stiff Robe, 2000 gold.
+Solphoa Peninsula
+	•	Mananet, 100 gold.
+	•	Meganet, 350 gold.
+	•	Herb, 250 gold.
+	•	Strong Herb, 650 gold.
+	•	Antidote, 50 gold.
+	•	Scorch Ointment, 50 gold.
+	•	Paralysis Vaccine, 50 gold.
+	•	Smelling Salts, 50 gold.
+	•	Encounter Down, 150 gold.
+	•	Super Encounter Down, 300 gold.
+	•	Flier, 30 gold.
+	•	Bone Dagger V2.0, 1200 gold.
+	•	Little Wand V2.0, 1200 gold.
+	•	Fairy Suit, 3500 gold.
+	•	Wooden Helmet, 3800 gold.
+	•	Megaphone, 5000 gold.
+Shadow Canyon
+	•	Mananet, 100 gold.
+	•	Meganet, 350 gold.
+	•	Herb, 250 gold.
+	•	Strong Herb, 650 gold.
+	•	Antidote, 50 gold.
+	•	Scorch Ointment, 50 gold.
+	•	Paralysis Vaccine, 50 gold.
+	•	Smelling Salts, 50 gold.
+	•	Encounter Down, 150 gold.
+	•	Super Encounter Down, 300 gold.
+	•	Flier, 30 gold.
+	•	Speed Anklet, 4500 gold.
+	•	Gas Mask, 2000 gold.
+Brytanburg Superstore
+F2, Net Department
+	•	Mananet, 100 gold.
+	•	Meganet, 350 gold.
+	•	Giganet, 1000 gold.
+	•	Nature Net, 500 gold.
+	•	Earth Net, 500 gold.
+	•	Baby Net, 500 gold.
+F3, Medicinal Goods
+	•	Herb, 250 gold.
+	•	Strong Herb, 650 gold.
+	•	Mighty Herb, 1000 gold.
+	•	Master Herb, 1700 gold.
+	•	Total Cure, 500 gold.
+	•	Medical Miracle, 2500 gold.
+	•	Revive, 4000 gold.
+F4, Utility Department
+	•	Encounter Down, 150 gold.
+	•	Super Encounter Down, 300 gold.
+	•	Ultra Encounter Down, 550 gold.
+	•	Flier, 30 gold.
+	•	Daedalus Dust, 600 gold.
+	•	Power Potion, 1000 gold.
+	•	Defensive Potion, 1000 gold.
+	•	Speedy Potion, 1000 gold.
+	•	Optical Potion, 1000 gold.
+	•	Magic Potion, 900 gold.
+	•	Charmed Potion, 1000 gold.
+	•	Aura Potion, 1000 gold.
+F5, Equipment Central
+	•	Bone Dagger V2.0, 1200 gold.
+	•	Little Wand V2.0, 1200 gold.
+	•	Megaphone, 5000 gold.
+	•	Gas Mask, 2000 gold.
+	•	Broomstick, 6000 gold.
+	•	Detuned Bell, 3000 gold.
+	•	Slingshot, 6000 gold.
+	•	Slingshot Blaster, 7500 gold.
+	•	Sacred Staff, 4500 gold. 
+	•	Long Dagger, 8500 gold.
+	•	Long Wand, 8500 gold.
+	•	Desert Garb, 2000 gold.
+	•	Perfect Glasses, 7000 gold.
+	•	Rubber Gloves, 6000 gold.
+	•	Steel Rapier, 7500 gold.
+	•	Boxing Gloves, 7500 gold.
+	•	Resister, 9500 gold.
+	•	Elec Claw, 8000 gold.
+	•	Rapid Cloak, 11000 gold.
+Brytanburg South, Equipment Vender
+	•	Long Dagger, 9500 gold.
+	•	Long Wand, 9500 gold.
+	•	Padded Vest, 2500 gold.
+	•	Venomous Lance, 8500 gold.
+	•	Slingshot, 6000 gold.
+	•	Shadow Dagger, 4000 gold.
+	•	Ice Dagger, 8000 gold.
+	•	Water Gun, 11500 gold.
+	•	Knight Armor, 5000 gold.
+	•	Energy Blaster, 14000 gold.
+	•	Mystic Shield, 5000 gold.
+Brytanburg South, YGC Shop
+	•	Power Potion, 200 credits.
+	•	Defensive Potion, 200 credits.
+	•	Speedy Potion, 200 credits.
+	•	Optical Potion, 200 credits.
+	•	Magic Potion, 200 credits.
+	•	Charmed Potion, 200 credits.
+	•	Aura Potion, 200 credits.
+	•	Earplugs, 650 credits.
+	•	Classic Shield, 1000 credits.
+	•	Holy Robe, 1000 credits.
+	•	Dark Shroud, 1000 credits.
+	•	Stone Guard, 1000 credits.
+	•	Detuned Bell, 1500 credits.
+	•	Blessed Necklace, 1800 credits.
+	•	Fairy Suit V2.0, 2000 credits.
+	•	Grandlan Clay, 2000 credits.
+	•	Venomous Lance, 2000 credits.
+	•	Magnet Jacket, 2000 credits.
+	•	Haunted Hat, 2000 credits.
+	•	Yellow Star, 2000 credits.
+	•	Altered Gas Mask, 2500 credits.
+	•	Heavy Blade, 2500 credits.
+	•	Lightning Rod, 3000 credits.
+	•	Elemental Crown, 5000 credits.
+	•	Mount Cindar Torch, 6500 credits.
+	•	The Manamon Autoson, 5000 credits.
+	•	The Manamon Montor, 8000 credits.
+Mechamo City
+	•	Mananet, 100 gold.
+	•	Meganet, 350 gold.
+	•	Giganet, 1000 gold.
+	•	Herb, 250 gold.
+	•	Strong Herb, 650 gold.
+	•	Mighty Herb, 1000 gold.
+	•	Antidote, 50 gold.
+	•	Scorch Ointment, 50 gold.
+	•	Paralysis Vaccine, 50 gold.
+	•	Smelling Salts, 50 gold.
+	•	Encounter Down, 150 gold.
+	•	Super Encounter Down, 300 gold.
+	•	Ultra Encounter Down, 550 gold.
+	•	Total Cure, 500 gold.
+	•	Earplugs, 4000 gold.
+	•	Elf Charm, 7500 gold.
+	•	Power Bracelet, 9000 gold.
+	•	Dark Blade, 7500 gold.
+	•	Nymph Wand, 3800 gold.
+Mechamo Equipment Vender
+Note: * = an item that won't appear the first time you're here, exact conditions unknown. Possibly postgame, or you have to have either caught or seen the manamon in question.
+	•	Horseshoes, 11000 gold.
+	•	Hundred Arm Coat, 10000 gold.
+	•	*Domestress Belt, 11500 gold.
+	•	*Sheepskin outfit, 12500 gold.
+	•	Ratiera Crown, 11500 gold.
+	•	*Snow Defense Collar, 13000 gold.
+	•	Mechanical Snake, 11500 gold.
+	•	Placebot Armor, 10000 gold.
+	•	Placebot Sword, 10000 gold.
+	•	Placebot Staff, 10000 gold.
+	•	Placebot Power Add on, 10000 gold.
+	•	Placebot Wheels, 10000 gold.
+	•	Placebot Arsenal, 13000 gold.
+Seulee City Local Shop
+Most things will unlock with 20000, except tonics, gravity magnets, update installers and master scrolls. The full inventory unlocks after donating a million gold.
+General Goods, on the Right
+	•	Mananet, 100 gold.
+	•	Meganet, 350 gold.
+	•	Giganet, 1000 gold.
+	•	Herb, 250 gold.
+	•	Strong Herb, 650 gold.
+	•	Mighty Herb, 1000 gold.
+	•	Total Cure, 500 gold.
+	•	Desert Garb, 2000 gold.
+	•	Razor Talon, 8000 gold.
+	•	Curing Mist, 3000 gold.
+	•	Healing Mist, 5000 gold.
+	•	Revival Mist, 8000 gold.
+	•	Sweet Tonic, 10000 gold.
+	•	Silver Tonic, 20000 gold.
+	•	Fire Suit, 8000 gold.
+	•	Aqua Suit, 8000 gold.
+	•	Nature Suit, 8000 gold.
+	•	Gravity Magnet, 6000 gold.
+	•	Fire Suit V2.0, 12000 gold.
+	•	Aqua Suit V2.0, 12000 gold.
+	•	Nature Suit V2.0, 12000 gold.
+	•	Berserk Club, 7500 gold.
+	•	Master's Scroll, First Edition, 300000 gold.
+	•	Master's Scroll, Second Edition, 750000 gold.
+	•	Master's Scroll, Third Edition, 2000000 gold.
+Transformation Items, on the Left
+	•	Star Element, 5000 gold.
+	•	Lightning Element, 5000 gold.
+	•	Smoke Element, 5000 gold.
+	•	Soulless Heartstone, 5000 gold.
+	•	Holy Artifact, 5000 gold.
+	•	Gunk Element, 5000 gold.
+	•	Chlorophyll Element, 5000 gold.
+	•	Update Installer, 5000 gold.
+	•	Skill Drink, 1000 gold.
+	•	Max Skill Drink, 3000 gold.
+	•	U P Restorative, 3500 gold.
+	•	Max U P Restorative, 5500 gold.
+Mamia
+	•	Meganet, 350 gold.
+	•	Super Encounter Down, 300 gold.
+	•	Mighty Herb, 1000 gold.
+	•	Total Cure, 500 gold.
+	•	Yellow Star, 8000 gold.
+	•	Speed Anklet V2.0, 8000 gold.
+	•	Stiff Robe, 2000 gold.
+	•	Holy Robe, 12000 gold.
+	•	Snow Shield, 6500 gold.
+Tradale Village
+	•	Mananet, 100 gold.
+	•	Meganet, 350 gold.
+	•	Giganet, 1000 gold.
+	•	Herb, 250 gold.
+	•	Strong Herb, 650 gold.
+	•	Mighty Herb, 1000 gold.
+	•	Master Herb, 1700 gold.
+	•	Total Cure, 500 gold.
+	•	Medical Miracle, 2500 gold.
+	•	Revive, 4000 gold.
+	•	Encounter Down, 150 gold.
+	•	Super Encounter Down, 300 gold.
+	•	Ultra Encounter Down, 550 gold.
+	•	Jungle Javelin, 7500 gold.
+Chinkon Hill Shopkeeper
+	•	Herb, 250 gold.
+	•	Strong Herb, 650 gold.
+	•	Mighty Herb, 1000 gold.
+	•	Master Herb, 1700 gold.
+	•	Total Cure, 500 gold.
+	•	Medical Miracle, 2500 gold.
+	•	Revive, 4000 gold.
+	•	Encounter Down, 150 gold.
+	•	Super Encounter Down, 300 gold.
+	•	Ultra Encounter Down, 550 gold.
+	•	Chain Shield, 5000 gold.
+	•	Sword of the Undead, 12000 gold.
+	•	Mega Mic, 7000 gold.
+	•	Dimbranch Club, 6000 gold.
+Frozen Hinterland Shelter
+	•	Herb, 250 gold.
+	•	Strong Herb, 650 gold.
+	•	Mighty Herb, 1000 gold.
+	•	Master Herb, 1700 gold.
+	•	Total Cure, 500 gold.
+	•	Medical Miracle, 2500 gold.
+	•	Revive, 4000 gold.
+	•	Encounter Down, 150 gold.
+	•	Super Encounter Down, 300 gold.
+	•	Ultra Encounter Down, 550 gold.
+Sonasette City
+	•	Mananet, 100 gold.
+	•	Meganet, 350 gold.
+	•	Giganet, 1000 gold.
+	•	Herb, 250 gold.
+	•	Strong Herb, 650 gold.
+	•	Mighty Herb, 1000 gold.
+	•	Master Herb, 1700 gold.
+	•	Total Cure, 500 gold.
+	•	Medical Miracle, 2500 gold.
+	•	Revive, 4000 gold.
+	•	Encounter Down, 150 gold.
+	•	Super Encounter Down, 300 gold.
+	•	Ultra Encounter Down, 550 gold.
+	•	Sweet Tonic, 9800 gold.
+	•	Silver Tonic, 25800 gold.
+	•	Firebrand, 7500 gold.
+Mordunt Island
+	•	Mananet, 100 gold.
+	•	Meganet, 350 gold.
+	•	Giganet, 1000 gold.
+	•	Herb, 250 gold.
+	•	Strong Herb, 650 gold.
+	•	Mighty Herb, 1000 gold.
+	•	Master Herb, 1700 gold.
+	•	Total Cure, 500 gold.
+	•	Medical Miracle, 2500 gold.
+	•	Revive, 4000 gold.
+	•	Encounter Down, 150 gold.
+	•	Super Encounter Down, 300 gold.
+	•	Ultra Encounter Down, 550 gold.
+	•	Daedalus Dust, 600 gold.
+	•	Ocean Rock, 7500 gold.
+Master Stadium
+	•	Mananet, 100 gold.
+	•	Meganet, 350 gold.
+	•	Giganet, 1000 gold.
+	•	Herb, 250 gold.
+	•	Strong Herb, 650 gold.
+	•	Mighty Herb, 1000 gold.
+	•	Master Herb, 1700 gold.
+	•	Total Cure, 500 gold.
+	•	Medical Miracle, 2500 gold.
+	•	Revive, 4000 gold.
+	•	Encounter Down, 150 gold.
+	•	Super Encounter Down, 300 gold.
+	•	Ultra Encounter Down, 550 gold.
+	•	Sweet Tonic, 11000 gold.
+	•	Silver Tonic, 25800 gold.
+	•	Ultra Snow Shield, 11500 gold.
+	•	Technique Cloak, 6000 gold.
+	•	Ambush Guard, 7500 gold.
+	•	Hive Buster, 7500 gold.
+	•	Protector, 6000 gold.
+	•	Gold Shield, 14000 gold.
+	•	Mount Cindar Torch, 10000 gold.
+
+Bonus: Manapedia Completion Rewards
+These are in no particular order, exact required numbers will not be listed here as that would require far too much testing.
+	•	Various standard healing items
+	•	Levelup Herb
+	•	Stiff Robe
+	•	Manascope
+	•	Super Guardian
+	•	Silver Tonic
+	•	Revival Mist
+	•	Treasure Chest Key
+	•	Weather Booster
+	•	Divinity Booster
+	•	Resister Advance
+	•	Baby Immunity Bracelet
+	•	Tank Immunity Bracelet
+	•	Levelup Herb x10 + Life Tonic x5: Have 307 manamon seen.

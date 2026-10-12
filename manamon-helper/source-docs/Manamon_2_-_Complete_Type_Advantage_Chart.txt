@@ -1,0 +1,116 @@
+The "type effectiveness" document delivered with the game only lists the offensive side of the different manamon types. For those like me who can't keep it all in their head I've compiled a more complete list of all type advantages also with their defensive matchups.
+
+
+Flame
+Flame is very effective against Plant, Insect, Ice and Steel.
+Flame is not very effective against Flame, Water, Magic, Dragon and Stone.
+Flame is susceptible to Water, Earth and Stone.
+Flame is resistant to Flame, Plant, Insect, Ice, Poison and Steel.
+Water
+Water is very effective against Flame, Earth and Stone.
+Water is not very effective against Water, Plant and Dragon.
+Water is susceptible to Plant and Electric.
+Water is resistant to Water, Flame, Ice, Sound and Steel.
+Plant
+Plant is very effective against Water, Earth and Stone.
+Plant is not very effective against Flame, Plant, Dragon, Air, Insect, ice and Steel.
+Plant is susceptible to Flame, Air, Insect, Ice and Poison.
+Plant is resistant to Water, Plant, Electric, Holy, Earth and Sound.
+Electric
+Electric is very effective against Water and Air.
+Electric is not very effective against Plant, Electric and Dragon.
+Electric does not effect Earth.
+Electric is susceptible to Magic and Earth.
+Electric is resistant to Electric, Air and Steel.
+Magic
+Magic is very effective against Electric, Dragon, Holy, Poison and Fighting.
+Magic is not very effective against Magic, Insect, Ghost and Steel.
+Magic does not effect Undead and Shadow.
+Magic is susceptible to Insect, Ghost, Undead, Shadow and Steel.
+Magic is resistant to Flame, Magic and Fighting.
+Magic is immune to Dragon.
+Dragon
+Dragon is very effective against Dragon.
+Dragon is not very effective against Holy, Stone and Steel.
+Dragon does not effect Magic.
+Dragon is susceptible to Magic, Dragon, Undead and Ice.
+Dragon is resistant to Flame, Water, Plant and Electric.
+Air
+Air is very effective against Plant, Insect and Fighting.
+Air is not very effective against Electric, Stone and Steel.
+Air is resistant to Plant, Insect and Fighting.
+Air is susceptible to Electric, Ice and Stone.
+Air is immune to earth.
+Insect
+Insect is very effective against Plant, Magic, Undead, Shadow and Holy.
+Insect is not very effective against Flame, Air, Insect, Ghost, Earth, ice and Stone.
+Insect is susceptible to Flame, Air, Ice, Poison and Stone.
+Insect is resistant to Plant, Magic, Insect, Undead, Holy, Earth and Sound.
+Ghost
+Ghost is very effective against Magic, Ghost, Undead, Sound and Fighting.
+Ghost is not very effective against Shadow, Holy and Steel.
+Ghost is susceptible to Ghost, Undead, Shadow and Holy.
+Ghost is resistant to Magic, Insect and Poison.
+Ghost is immune to Standard and Fighting.
+Undead
+Undead is very effective against Magic, Dragon, Ghost and Sound.
+Undead is not very effective against Insect, Shadow, undead and Holy.
+Undead is susceptible to Insect, Ghost, Ice and Holy.
+Undead is resistant to Undead, Sound and Poison.
+Undead is immune to Magic.
+Shadow
+Shadow is very effective against Magic and Ghost.
+Shadow is not very effective against Shadow, Holy, Fighting and Steel.
+Shadow is susceptible to Insect, Holy, Poison and Fighting.
+Shadow is resistant to Ghost, Undead and Shadow.
+Shadow is immune to Magic.
+Ice
+Ice is very effective against Plant, Dragon, Air, Insect, Undead and Earth.
+Ice is not very effective against Flame, Water, Ice and Steel.
+Ice is susceptible to Flame, Holy, Sound, Fighting, Stone and Steel.
+Ice is resistant to Plant, Insect and Ice.
+Holy
+Holy is very effective against Ghost, Undead, Shadow and Ice.
+Holy is not very effective against Plant, Insect, Holy, Earth, Fighting and Steel.
+Holy is susceptible to Magic, Insect and Steel.
+Holy is resistant to Dragon, Ghost, Undead, Shadow and Holy.
+Standard
+Standard is very effective against nothing.
+Standard is not very effective against Stone and Steel.
+Standard does not effect Ghost.
+Standard is susceptible to Fighting.
+Standard is resistant to nothing.
+Earth
+Earth is very effective against Flame, Electric, Poison, Stone and Steel.
+Earth is not very effective against Plant and Insect.
+Earth does not effect Air.
+Earth is susceptible to Water, Plant and Ice.
+Earth is resistant to Insect, Holy, Poison and Stone.
+Earth is immune to Electric.
+Poison
+Poison is very effective against Plant, Insect and shadow.
+Poison is not very effective against Flame, Ghost, Earth, undead and Poison.
+Poison is susceptible to Magic and Earth.
+Poison is resistant to Fighting and Poison.
+Sound
+Sound is very effective against Ice, Fighting and Stone.
+Sound is not very effective against Water, Plant, Insect, Undead, Sound and Steel.
+Sound is susceptible to Ghost and Undead.
+Sound is resistant to Sound and Fighting.
+Fighting
+Fighting is very effective against Shadow, Ice, Standard, Stone and Steel.
+Fighting is not very effective against Magic, Air, Poison and Sound.
+Fighting does not effect Ghost.
+Fighting is susceptible to Magic, Air, Ghost and Sound.
+Fighting is resistant to Shadow, Holy and Stone.
+Stone
+Stone is very effective against Flame, Air, Insect and Ice.
+Stone is not very effective against Earth, Fighting and Steel.
+Stone is susceptible to Water, Plant, Earth, Sound, Fighting and Steel.
+Stone is resistant to Flame, Dragon, Air, Insect and Standard.
+Steel
+Steel is very effective against Magic, Ice, Holy and Stone.
+Steel is not very effective against Flame, Water, Electric and Steel.
+Steel is susceptible to Flame, Earth and Fighting.
+Steel is resistant to Plant, Magic, Dragon, Air, Ghost, Shadow, Ice, Holy, Standard, Sound, Stone and Steel.
+Steel is immune to Poison.
