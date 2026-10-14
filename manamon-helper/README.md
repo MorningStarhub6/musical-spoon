@@ -1,114 +1,93 @@
 # Manamon 2 Helper
 
-A battle and guide helper for the game Manamon 2. It is one web page that works with NVDA and other screen readers. It runs from your own computer. You don't need to install anything, and you don't need the internet.
+A battle and guide helper for the game Manamon 2. It is a web page that works with NVDA and other screen readers. It runs from your own computer. You don't need to install anything, and you don't need the internet.
 
 ## How to open it
 
-1. Download this repository. On GitHub, choose "Code", then "Download ZIP", and unzip it.
-2. Open the folder `manamon-helper`.
-3. Open `index.html` with Chrome, Edge or Firefox.
+There are two ways. Both work the same.
 
-Keep the `data` folder next to `index.html`. The page needs it.
+- **One file (easiest to share):** open `dist/manamon-helper.html` in Chrome, Edge or Firefox. Everything is inside this one file, so you can send it to a friend.
+- **The folder:** open `index.html` in a browser. Keep the `data` folder next to it.
+
+The helper starts with an empty team. Go to "My team", paste what NVDA says on your Manamon's Overview screens, and the helper fills in your team. If you already saved your data to a file, load that file instead.
 
 ## What it does
 
 The page has 8 sections. The links to them are at the top, in a navigation landmark. In NVDA browse mode, press D to jump there.
 
-- **Battle helper.** Type an opponent's name. Small spelling mistakes are fine. Press Enter. The helper then tells you:
-  - your strongest move against it
-  - which of your Manamon takes the least damage from it
-  - the best all-round choice: your strongest attacker that does not take extra damage
+- **Battle helper.** Type an opponent's name. Small spelling mistakes are fine. Press Enter. The helper tells you:
+  - **Use:** the move to use, and how much damage that Manamon takes from the opponent. This is the strongest move whose Manamon does not take extra damage. If the strongest move belongs to a Manamon that would take double damage, the helper picks a safer Manamon with a move that is nearly as strong, and says why.
+  - **Other very effective moves:** for each Manamon, its very effective moves, and how much damage that Manamon takes.
+  - **Takes the least damage:** which of your Manamon is safest against this opponent.
   - a table of all your moves, strongest first
 
-  You can also set the opponent's types yourself, up to 4 types.
-- **What's next.** Choose where you are in the game, or type the name of a place or tamer. The helper shows:
-  - the next battles from the walkthrough, with the opponents' levels and types, and your best answer to each one
-  - warnings, for example: "Nothing in your party is very effective against Kangard", or "Watch out for Ghost attacks"
-  - the next big battle (stadium leader or boss), with the guide's tips
-  - tools you will get soon, like the Rope
-  - wild Manamon in the places ahead
-  - the walkthrough text for the next steps
-
-  When you win a battle, press "I won the next battle" to move on.
-- **Items in game order.** The item guide is sorted by map, and it pretends you already have every tool. This section puts the items in the order you reach each place. It also says which tool each item needs: the Old Hammer, the Crowbar, the Rope, the Swim Gear, Tunnel, Dive, the Item Detector, or a Treasure Chest Key.
-  - It uses your place from "What's next" to know which tools you have. For example, the Strong Herb on the metal post in the Great Hall shows as "come back later" until you have the Rope.
-  - You can show only the items you can get now, or only the ones to come back for. You can also tick items you already picked up.
-  - The shop lists are here too.
-- **My team.** Your Manamon, their types, and their moves (type, effect points, physical, special or status).
-  - The quickest way to update it: copy what NVDA says on each Overview screen and move list, then paste it into the box. The helper reads it and ignores extra lines like chat notifications.
-  - Untick "In my party" for Manamon you put in the transportal.
-- **Manamon list.** All 307 Manamon, with types, transformations and where to find them. If the game shows different types than the helper, fix them here. Your fix is saved.
-- **Type chart.** What a type is good or bad against, and what a set of types is weak to.
-- **Settings.** Change the same-type bonus, the effect point limits, and your starter.
+  Under "Who can fight right now", untick a Manamon that fainted. The advice leaves it out until you tick it again, or until you press "Everyone is healed".
+- **What's next.** Choose where you are in the game, or type the name of a place or tamer. The helper shows the next battles, with the move to use against each opponent, other good choices, and warnings to prepare for. It also shows the next big battle, tools you will get soon, and the walkthrough text. When you win a battle, press "I won the next battle".
+- **Items in game order.** The item guide's items, sorted by when you reach each place, with the tool each item needs: Old Hammer, Crowbar, Rope, Swim Gear, Tunnel, Dive, Item Detector, or a Treasure Chest Key. It also has the shop lists.
+- **My team.**
+  - Your party holds up to 6 Manamon, like in the game. The others go in the transportal list, and the advice does not use them.
+  - **Should I learn a new move?** When the game offers a new move, paste what NVDA says on the teach screen or the "Select the move to be deleted" screen. The helper tries every swap. It tells you which move to forget, or if you should keep your moves.
+  - **Save all my helper data to a file:** a backup, or a way to move your data to another computer.
+- **Manamon list.** All 307 Manamon, with types, transformations and where to find them. You can fix a Manamon's types here if the game says something different.
+- **Type chart.** What a type is good or bad against.
+- **Settings.** The same-type bonus, the effect point limits, your starter, and the rule for moves with two types.
 - **Help.** A short version of this page.
-
-Each section starts with a level 2 heading, and its parts have level 3 and 4 headings. Results are in tables, so you can press T, then use Control plus Alt plus the arrow keys.
-
-Your team, your place in the game and your ticks are saved in the browser. To keep a backup, or to move your data to another computer, use "Save all my helper data to a file" in My team.
 
 ## How the numbers work
 
-- **Type effect.** Start at 1. Then multiply by the chart value once for each of the defender's types:
-  - very effective is 2
-  - normal is 1
-  - not very effective is half
-  - no effect is 0
-
-  Example: an Insect move against an Air and Magic Manamon is 2 times half, which is 1, normal.
-- **Moves with two types**, like Ice Punch (Ice and Fighting), count both types. If the game works differently, you can change this in Settings to "use only the better type".
-- **Same-type bonus.** If a move has one of its user's own types, it gets 1.5 times. You can change the 1.5 in Settings.
-- **Estimated power** = effect points × type effect × same-type bonus. It does not know your stats, so use it to compare moves, not as the real damage.
-- **Move ratings** use your own scale for effect points: under 40 is terrible, 40 to 60 is normal, 60 to 90 is good, and over 90 is really great. You can change these as your Manamon level up.
+- **Type effect.** Start at 1. Then multiply by the chart value once for each of the defender's types: very effective is 2, normal is 1, not very effective is half, no effect is 0. Example: an Insect move against an Air and Magic Manamon is 2 times half, which is 1, normal.
+- **Estimated power** = effect points × type effect × same-type bonus (1.5) × accuracy. It does not know your stats, so use it to compare moves.
+  - A 30 effect point move that is very effective is only 60, which is weaker than a normal 65 move.
+  - A 120 effect point move with 70 percent accuracy counts as 84. You can turn accuracy off in Settings.
+- **Move ratings** use your scale for effect points: under 40 terrible, 40 to 60 normal, 60 to 90 good, over 90 really great. Change them in Settings as your Manamon level up.
 - **Damage taken.** The helper expects the opponent to attack with its own types. If you see it use another type, tick that type under "Extra attack types".
-- **Special moves.** Status moves are not ranked. Moves whose power changes, like Sound Wave, are listed on their own.
-  - Hypermagnet is always very effective against Electric types.
-  - Spirit Sight lets Kangard's Fighting and Standard moves hit Ghost types.
+
+## Moves with two types, like Ice Punch
+
+The first version multiplied both types. That was wrong: you saw Ice Punch do normal damage where Crystal Slash (pure Ice) was very effective. So now, by default, only the **weaker** of the two types counts. Then the helper never promises "very effective" when the game says "normal".
+
+The guides don't say the real rule. Settings has a short test to find it. It says which Manamon to use a two-type move on, and what each answer would mean. Write down what the game says, and the helper tells you which rule fits.
+
+For example, your note "Ice Punch on Folimoss: normal" already leaves only two possible rules:
+
+- only the weaker type counts
+- only the second type counts (Fighting, in "Ice and Fighting")
+
+One more test, Ice Punch on a pure Flame Manamon like Flarebra, tells them apart:
+
+- "not very effective" means the weaker type counts
+- "normal" means only the second type counts
 
 ## Where the data comes from, and what is not sure
 
 The data is built from your 4 guide files, which are in `source-docs`:
 
-- Manamon 2 Guide (the walkthrough by tunmi13 and others)
-- the Complete Type Advantage Chart
-- the List of All 307 Manamon With Locations
-- the Manamon 2 Item Guide
+- the walkthrough
+- the type chart
+- the list of all 307 Manamon
+- the item guide
 
-As you asked, the type chart document is used, not the typed list in your message. The two only differ on one point: the document says Steel is immune to Poison, so the helper uses that.
+The type chart document is used, not the typed list in your first message. They only differ on one point: the document says Steel is immune to Poison.
 
-Things to know:
+- **Some Manamon types are not sure.** They are marked "types not sure". The Manamon list puts a whole transformation line under a type, even when the first form does not have it yet.
+- **Byron's starter** follows your starter. It is set to Grekko; change it in Settings.
+- **Side areas.** The walkthrough never visits Elatia Walkway, Qweugum Swamp, Haunted Thicket, Solphear Cave F2, the lower Cave of Fates and the Lower Catacombs. You tick them yourself when you can reach them.
 
-- **Some types are not sure.** The Manamon list puts a whole transformation line under a type, even when the first form does not have it yet. For example, it puts Tadder under Electric, but Tadder only becomes Electric when it turns into Friggle.
-  - The helper fixes this when the walkthrough or your game screens say the real types.
-  - Where nothing says, the Manamon is marked "types not sure". In the Manamon list, you can show only those.
-  - Deciced has no type in any of the guides.
-- **The Manamon list had mistakes**, which the helper fixes:
-  - Murkit had the wrong ID number.
-  - Groller and Gronk were missing the Earth type.
-  - Two location lists had no name (they belong to Houndorf and Waspunch).
-- **Byron's starter** depends on yours. The helper is set to Grekko, because you have Greniverb. You can change this in Settings.
-- **Side areas.** The walkthrough never visits some places in the item guide:
-  - Elatia Walkway and Qweugum Swamp
-  - Haunted Thicket
-  - Solphear Cave F2
-  - the lower floors of the Cave of Fates
-  - the Lower Catacombs
+## For whoever changes the data
 
-  For these, the helper cannot know when you can get there, so you tick them yourself. You said the swamp opens after clearing a blocked path with the Crowbar or the Old Hammer. If you find out which tool it is, tell me and I'll set it.
-
-## Updating the data
-
-If a guide file gets a new version, put it in `source-docs` with the same file name. Then run:
+After a guide file changes, put the new file in `source-docs` with the same name, then run:
 
 ```
 python3 tools/build_data.py
+python3 tools/build_single_file.py
 ```
 
-This rebuilds `data/manamon-data.js`. The fixes for types, item tools and place order are at the top of `tools/build_data.py`. Each fix says where it came from.
+The first command rebuilds `data/manamon-data.js`. The second rebuilds `dist/manamon-helper.html`. The fixes for types, item tools and place order are at the top of `tools/build_data.py`. Each fix says where it came from.
 
 ## Files
 
-- `index.html`, `app.js`, `app.css`: the page itself.
-- `data/manamon-data.js`: all the game data, made by the build script.
-- `data/starting-team.js`: your team when the helper was made. It is used the first time, or when you choose "Reset to starting team".
-- `tools/build_data.py`: turns the guide files into the data file.
+- `dist/manamon-helper.html`: everything in one file, to open or share.
+- `index.html`, `app.js`, `app.css`: the page, in separate files.
+- `data/manamon-data.js`: all the game data, made by `tools/build_data.py`.
+- `tools/`: the two build scripts.
 - `source-docs/`: the 4 guide files.

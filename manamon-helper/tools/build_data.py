@@ -41,9 +41,9 @@ TYPE_WORDS.update({"fire": "Flame", "flaim": "Flame", "grass": "Plant",
 
 # Types that are known for sure.  These replace whatever the list file says.
 TYPE_FACTS = {
-    # From your own game screen (NVDA overview text).
-    "Mantasteel": (["Steel", "Insect"], "your game screen"),
-    "Groller": (["Earth", "Magic"], "your game screen"),
+    # From the game's own Overview screen ("Groller is Earth and Magic type").
+    "Mantasteel": (["Steel", "Insect"], "the game's Overview screen"),
+    "Groller": (["Earth", "Magic"], "the game's Overview screen"),
     "Friggle": (["Water", "Electric"], "the Manamon list (Friggle becomes Water and Electric)"),
     "Kangard": (["Fighting"], "the Manamon list"),
     "Zebbabern": (["Flame"], "the Manamon list"),

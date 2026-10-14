@@ -120,3 +120,6 @@ ul.items li { margin: 0.5rem 0; }
   input[type="search"], input[type="text"], select[size] { width: 100%; }
   table { font-size: 0.95rem; }
 }
+
+ul.plain { list-style: none; padding-left: 0; }
+h5 { font-size: 1.05rem; margin: 1rem 0 0.4rem; }

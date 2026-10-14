@@ -27,6 +27,12 @@
 
 <main id="main" tabindex="-1">
 
+<div id="notice" class="summary-box" hidden>
+  <h2 id="notice-h" tabindex="-1">Message from the helper</h2>
+  <div id="notice-text"></div>
+  <p><button type="button" id="notice-ok">OK, hide this message</button></p>
+</div>
+
 <!-- ===================== Battle helper ===================== -->
 <section id="view-battle" class="view" aria-labelledby="h-battle">
   <h2 id="h-battle" tabindex="-1">Battle helper</h2>
@@ -56,6 +62,13 @@
     <p class="hint">The helper expects the opponent to attack with its own types. If you saw it use a move of another type, tick that type here.</p>
     <div class="check-grid" id="opp-extra"></div>
   </details>
+
+  <fieldset>
+    <legend>Who can fight right now</legend>
+    <p class="hint">Untick a Manamon that has fainted. The helper leaves it out until you tick it again.</p>
+    <div id="fighters" data-fighters></div>
+    <p><button type="button" class="secondary" data-act="all-healed">Everyone is healed</button></p>
+  </fieldset>
 
   <div id="battle-results" aria-labelledby="h-results">
     <h3 id="h-results">Results</h3>
@@ -87,6 +100,13 @@
     <label for="upcoming-count">How many coming battles to show</label>
     <input id="upcoming-count" type="number" min="1" max="30" step="1">
   </div>
+
+  <details>
+    <summary>Who can fight right now</summary>
+    <p class="hint">Untick a Manamon that has fainted. The advice below leaves it out until you tick it again.</p>
+    <div id="next-fighters" data-fighters></div>
+    <p><button type="button" class="secondary" data-act="all-healed">Everyone is healed</button></p>
+  </details>
 
   <div id="next-output"></div>
 </section>
@@ -131,7 +151,7 @@
 <!-- ===================== My team ===================== -->
 <section id="view-team" class="view" aria-labelledby="h-team" hidden>
   <h2 id="h-team" tabindex="-1">My team</h2>
-  <p>Your Manamon, their types and their moves. Only Manamon marked "in my party" are used by the Battle helper. Changes are saved by themselves in this browser.</p>
+  <p>Your Manamon, their types and their moves. Up to 6 can be in your party, like in the game. The others are kept in the transportal list, and the Battle helper does not use them. Changes are saved by themselves in this browser.</p>
 
   <h3>Read my team from the game</h3>
   <p class="hint">In the game, open each Manamon's Overview and its move list, then copy what NVDA said (for example with the NVDA speech history add-on) and paste it here. You can paste all your Manamon at once. Extra lines, like chat notifications, are ignored.</p>
@@ -146,12 +166,32 @@
   <div id="team-list"></div>
   <p><button type="button" id="team-add">Add a Manamon</button></p>
 
+  <h3>Should I learn a new move?</h3>
+  <p class="hint">When the game offers a new move, copy what NVDA says on the teach screen, or on the "Select the move to be deleted" screen, and paste it here. The helper tries every swap and tells you which move to forget, or if you should keep your moves.</p>
+  <div class="field">
+    <label for="adv-who">Which Manamon is learning</label>
+    <select id="adv-who"></select>
+  </div>
+  <div class="field">
+    <label for="adv-paste">Pasted text from the teach or delete screen</label>
+    <textarea id="adv-paste" rows="6"></textarea>
+  </div>
+  <div class="field">
+    <label for="adv-target">Judge the moves against</label>
+    <select id="adv-target">
+      <option value="ahead">The opponents in the rest of the walkthrough, from where you are now</option>
+      <option value="all">Every Manamon in the game</option>
+    </select>
+  </div>
+  <p><button type="button" id="adv-run">Work it out</button></p>
+  <div id="adv-out"></div>
+
   <h3>Save or load</h3>
   <div class="button-row">
     <button type="button" id="data-export">Save all my helper data to a file</button>
     <label class="file-button" for="data-import-file">Load helper data from a file</label>
     <input type="file" id="data-import-file" accept=".json,application/json">
-    <button type="button" id="team-reset">Reset to starting team</button>
+    <button type="button" id="team-reset" class="secondary">Remove all my Manamon from the helper</button>
   </div>
 </section>
 
@@ -211,13 +251,48 @@
     <label for="set-stab">Same-type bonus (when the move has one of the user's own types)</label>
     <input id="set-stab" type="number" min="1" max="3" step="0.05">
   </div>
+  <div class="field check">
+    <input type="checkbox" id="set-acc">
+    <label for="set-acc">Count accuracy: a move with 70 percent accuracy counts as 70 percent of its power</label>
+  </div>
+
+  <h3>Moves with two types</h3>
+  <p class="hint">Moves like Ice Punch are two types at once (Ice and Fighting). The guides do not say how the game works out their type effect, and your games showed that it is not "both types multiplied". So the helper uses the weaker of the two types by default: then it never promises "very effective" when the game says "normal". You can find the real rule with a quick test in the game, below.</p>
   <div class="field">
-    <label for="set-dual">Moves with two types, like Ice Punch (Ice and Fighting)</label>
+    <label for="set-dual">How to count moves with two types</label>
     <select id="set-dual">
-      <option value="multiply">Multiply both types (this is the default)</option>
-      <option value="best">Use only the better of the two types</option>
+      <option value="worst">Use only the weaker of the two types (default, the safe choice)</option>
+      <option value="last">Use only the second type the game says (Fighting in "Ice and Fighting")</option>
+      <option value="first">Use only the first type the game says (Ice in "Ice and Fighting")</option>
+      <option value="best">Use only the stronger of the two types</option>
+      <option value="multiply">Multiply both types</option>
     </select>
   </div>
+
+  <h4>Find out how your game does it</h4>
+  <div id="dual-tests"></div>
+  <h4>Tell the helper what the game said</h4>
+  <p class="hint">After you use a two-type move, write down here what the game said. The helper then checks which rule fits everything you saw.</p>
+  <div class="field">
+    <label for="obs-move">The two-type move you used</label>
+    <select id="obs-move"></select>
+  </div>
+  <div class="field">
+    <label for="obs-opp">The opponent Manamon's name</label>
+    <input id="obs-opp" type="text" autocomplete="off" spellcheck="false">
+  </div>
+  <div class="field">
+    <label for="obs-said">What the game said</label>
+    <select id="obs-said">
+      <option value="very">Very effective</option>
+      <option value="normal">Nothing special (normal damage)</option>
+      <option value="weak">Not very effective</option>
+      <option value="none">It had no effect</option>
+    </select>
+  </div>
+  <p><button type="button" id="obs-add">Add what I saw</button></p>
+  <div id="obs-list"></div>
+  <div id="obs-fit" aria-live="polite"></div>
 
   <h3>How good is a move?</h3>
   <p class="hint">Change these as your Manamon level up.</p>
@@ -258,13 +333,22 @@
     <li>Results are in tables. Press T to jump to a table, then use Control plus Alt plus the arrow keys to read cells.</li>
     <li>Short summaries are spoken by themselves after you choose an opponent.</li>
   </ul>
+  <h3>How the advice works</h3>
+  <ul>
+    <li>"Use" is the strongest move whose Manamon does not take extra damage from the opponent. If the strongest move belongs to a Manamon that would take double damage, the helper picks a safer Manamon with a move that is nearly as strong, and tells you why.</li>
+    <li>"Other very effective moves" lists, for each Manamon, its very effective moves and how much damage that Manamon takes.</li>
+    <li>Untick "can fight" for a Manamon that fainted. The advice leaves it out until you tick it again, or press "Everyone is healed".</li>
+    <li>Your party holds up to 6 Manamon, like in the game. Others stay in the transportal list in My team, and the advice does not use them.</li>
+  </ul>
   <h3>How the numbers work</h3>
   <ul>
     <li>Type effect: start at 1, multiply by the chart value for each defender type. Very effective is 2, normal 1, not very effective half, no effect 0. Example: Insect against Air and Magic is 2 times half, so 1, normal.</li>
-    <li>Estimated power: effect points times type effect times the same-type bonus (1.5 by default). A 30 effect point move that is very effective is still only 60, which is weaker than a normal 65 move.</li>
+    <li>Moves with two types, like Ice Punch: by default only the weaker of the two types counts. Your game showed that multiplying both is wrong. Settings has a quick test to find the real rule.</li>
+    <li>Estimated power: effect points times type effect times the same-type bonus (1.5 by default) times accuracy. A 30 effect point move that is very effective is still only 60, which is weaker than a normal 65 move. A 120 effect point move with 70 percent accuracy counts as 84.</li>
     <li>The opponent is expected to attack with its own types, so "takes the least damage" is worked out from those types, plus any extra types you tick.</li>
     <li>Status moves (moves with no effect points) are not ranked. Moves whose power changes, like Sound Wave, are listed separately.</li>
     <li>Spirit Sight: if a Manamon knows it, its Fighting and Standard moves can hit Ghost types after you use Spirit Sight.</li>
+    <li>Should I learn a new move: the helper tries every swap and compares the average estimated power against the opponents still to come, for that Manamon alone and for your whole party. It also counts how many opponents the Manamon has a very effective move against.</li>
   </ul>
   <h3>Where the data comes from</h3>
   <ul id="help-sources"></ul>
@@ -276,7 +360,6 @@
 <div id="announcer" class="visually-hidden" role="status" aria-live="polite" aria-atomic="true"></div>
 
 <script src="data/manamon-data.js"></script>
-<script src="data/starting-team.js"></script>
 <script src="app.js"></script>
 </body>
 </html>
